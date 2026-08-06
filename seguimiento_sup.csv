@@ -1,0 +1,945 @@
+MRUN,AGNO,nombre_rbd,glosa_simple,CAT_PERIODO,TIPO_INST_1,JORNADA,nomb_carrera,nomb_inst_simple,NIVEL_CARRERA_2,AREA_CONOCIMIENTO,AREA_CARRERA_GENERICA,FORMA_INGRESO,nomb_inst_agrupado,area_agrupada,forma_ingreso_ok
+3071551,2020,Liceo de Huara,Administración,2021,Centros de Formación Técnica,Diurno,Técnico en Educación Especial,CFT Santo Tomás,Carreras Técnicas,Educación,Técnico Asistente del Educador Diferencial,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+14171203,2020,Liceo de Huara,Administración,2021,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Obstetricia y Puericultura,9- Ingreso por características especiales,Universidad de Tarapacá,Otras áreas,Características especiales
+16963413,2020,Liceo de Huara,Administración,2021,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Enfermería,7- Ingreso a través de PACE,Universidad Arturo Prat,Otras áreas,PACE
+23298752,2020,Liceo de Huara,Administración,2021,Institutos Profesionales,Vespertino,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Contador Auditor,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+523983,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Institutos Profesionales,Vespertino,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+2519213,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Centros de Formación Técnica,Diurno,Contabilidad General,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Contabilidad General,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+4055907,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Centros de Formación Técnica,Vespertino,Administración de Empresas,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+4929422,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Institutos Profesionales,Diurno,NA,IP Santo Tomás,Carreras Profesionales,Tecnología,Ingeniería en Computación e Informática,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+5709834,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Institutos Profesionales,Vespertino,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Contador Auditor,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+9724780,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Institutos Profesionales,Vespertino,NA,IP Santo Tomás,Carreras Profesionales,Administración y Comercio,Ingeniería en Recursos Humanos,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+11862196,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Institutos Profesionales,Vespertino,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+12772484,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Centros de Formación Técnica,Diurno,Administración de Empresas,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+13247108,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Centros de Formación Técnica,Diurno,Técnico en Minería,CFT Inacap,Carreras Técnicas,Tecnología,Técnico en Minería,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+16562104,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración Gastronómica,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+19613402,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Ingeniería en Logística,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+20592619,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Contador Auditor,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+21279989,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Centros de Formación Técnica,Diurno,Gastronomía Internacional,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+21541534,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Centros de Formación Técnica,A Distancia,NA,NA,Carreras Técnicas,Administración y Comercio,Técnico en Contabilidad General,1- Ingreso Directo (regular),NA,Administración y Comercio,Directo
+25475092,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Centros de Formación Técnica,Diurno,Técnico en Minería,CFT Inacap,Carreras Técnicas,Tecnología,Técnico en Minería,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+26244217,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Ingeniería en Logística,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+17785978,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Institutos Profesionales,A Distancia,NA,NA,Carreras Técnicas,Tecnología,Técnico en Prevención de Riesgos,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+22110137,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil Industrial,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+23424809,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+23895896,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2021,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Arte y Arquitectura,Arquitectura,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+911642,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2021,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Kinesiología,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+2516156,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2021,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Educación,Pedagogía en Educación Básica,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+2566859,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2021,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Odontología,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+3461362,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2021,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Tecnología Médica,1- Ingreso Directo (regular),Universidad de Tarapacá,Salud,Directo
+4058061,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2021,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Educación,Pedagogía en Idiomas,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+4427799,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2021,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Odontología,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+5802268,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2021,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+5964820,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2021,Centros de Formación Técnica,Diurno,Técnico en Enfermería Gineco-Obstetrica y Neonatal,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+10326475,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2021,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Ciencias Sociales,Psicología,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+12824809,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2021,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+15345760,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2021,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Ciencias Sociales,Psicología,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+19140744,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2021,Universidades,Diurno,NA,NA,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),NA,Salud,Directo
+20114695,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2021,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+22611783,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2021,Institutos Profesionales,A Distancia,NA,NA,Carreras Profesionales,Arte y Arquitectura,Diseño Gráfico,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+23720324,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2021,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Obstetricia y Puericultura,1- Ingreso Directo (regular),Universidad de Tarapacá,Salud,Directo
+24891971,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2021,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Odontología,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+5856756,2020,Escuela Básica y Parvularia Kronos School,Administración,2021,Centros de Formación Técnica,Diurno,Técnico en Mecánica y Electromovilidad Automotriz,CFT Inacap,Carreras Técnicas,Tecnología,Técnico en Mecánica Automotriz,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+14691892,2020,Escuela Básica y Parvularia Kronos School,Administración,2021,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración Gastronómica,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+9619550,2020,Liceo de Huara,Administración,2022,Centros de Formación Técnica,Diurno,Gastronomía,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+14837571,2020,Liceo de Huara,Administración,2022,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+4153205,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Otras áreas,Directo
+5502885,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+9402394,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Centros de Formación Técnica,Diurno,Administración de Empresas,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+13312316,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Institutos Profesionales,Diurno,NA,IP Santo Tomás,Carreras Profesionales,Ciencias Sociales,Trabajo Social,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+13429033,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Ciencias Sociales,Psicología,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+18097445,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Contador Auditor,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+23554037,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Universidades,Vespertino,"TNS Administración de Empresas, Marketing y Gestión Comercial",Universidad Arturo Prat,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+13680669,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Institutos Profesionales,A Distancia,NA,NA,Carreras Técnicas,Ciencias Sociales,Técnico en Servicio Social,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+20526275,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Centros de Formación Técnica,Vespertino,Técnico en Logística,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+21816675,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Centros de Formación Técnica,Diurno,Técnico en Enfermería y Procedimientos de Apoyo a la Rehabilitación,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+25133937,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Centros de Formación Técnica,Vespertino,Administración de Empresas,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+6671342,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Arte y Arquitectura,Arquitectura,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+12932246,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2022,Centros de Formación Técnica,Diurno,Técnico en Odontología mención Higienista Dental,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico Dental y Asistente de Odontología,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+15091001,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2022,Universidades,Vespertino,TNS Enfermería,Universidad Arturo Prat,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+18508363,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2022,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Kinesiología,10- Otras formas de Ingreso,Santo Tomás,Salud,Otras formas de ingreso
+19498378,2020,Escuela Básica y Parvularia Kronos School,Administración,2022,Centros de Formación Técnica,Diurno,Administración de Empresas,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+25736667,2020,Escuela Básica y Parvularia Kronos School,Administración,2022,Centros de Formación Técnica,Diurno,TNS en Educación Parvularia,CFT Estatal de Tarapacá,Carreras Técnicas,Educación,Técnico Asistente del Educador de Párvulos,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Otras áreas,Directo
+10097796,2020,Liceo de Huara,Administración,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Arte y Arquitectura,Diseño Gráfico,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+17067710,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Vespertino,TNS en Administración Logística,Universidad Arturo Prat,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+10599089,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Nutrición y Dietética,1- Ingreso Directo (regular),Universidad de Tarapacá,Salud,Directo
+13199893,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Vespertino,NA,Universidad Santo Tomás,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+13557284,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Kinesiología,6- Ingreso especial para estudiantes extranjeros,Universidad de Tarapacá,Salud,Especial para estudiantes extranjeros
+13914466,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,Técnico en Odontología mención Higienista Dental,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico Dental y Asistente de Odontología,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+21207576,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Kinesiología,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+25134360,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,Técnico en Enfermería y Procedimientos de Apoyo a la Rehabilitación,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+5600094,2020,Escuela Básica y Parvularia Kronos School,Administración,2023,Institutos Profesionales,Vespertino,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Ingeniería en Logística,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+17524520,2020,Escuela Básica y Parvularia Kronos School,Administración,2023,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+19364746,2020,Escuela Básica y Parvularia Kronos School,Administración,2023,Universidades,Vespertino,TNS Mecánico Mantenedor de Maquinaria Pesada,Universidad Arturo Prat,Carreras Técnicas,Tecnología,Técnico en Mecánica Industrial,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+20914488,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Centros de Formación Técnica,Vespertino,Técnico en Administración,CFT Santo Tomás,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+10106705,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Fonoaudiología,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+10893027,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,Técnico en Enfermería Gineco-Obstetrica y Neonatal,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+23054627,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Centros de Formación Técnica,A Distancia,NA,NA,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),NA,Salud,Directo
+24692551,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Centros de Formación Técnica,A Distancia,NA,NA,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),NA,Salud,Directo
+8417888,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Centros de Formación Técnica,A Distancia,NA,NA,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1,NA,Administración y Comercio,Directo
+8802417,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Institutos Profesionales,Vespertina,NA,IP Santo Tomás,Carreras Profesionales,Tecnología,Ingeniería en Computación e Informática,1,Santo Tomás,Otras áreas,Directo
+1284346,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Centros de Formación Técnica,Vespertina,Técnico en Administración,CFT Santo Tomás,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,1,Santo Tomás,Administración y Comercio,Directo
+1371835,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Centros de Formación Técnica,Diurna,TNS en Administración Pública,CFT Estatal de Tarapacá,Carreras Técnicas,Ciencias Sociales,Técnico en Administración Pública o Municipal,1,CFT Estatal de Tarapacá,Otras áreas,Directo
+1918418,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Centros de Formación Técnica,A Distancia,NA,NA,Carreras Técnicas,Salud,Técnico en Enfermería,1,NA,Salud,Directo
+5653724,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Tecnología Médica,1,Santo Tomás,Salud,Directo
+25712065,2020,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5540233,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7549049,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13384432,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14413671,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15568203,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16724563,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22278613,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25837608,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5661700,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11320617,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21473138,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22164187,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22608826,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23603780,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25816760,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25976424,2020,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2082506,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3032417,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3129092,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4675053,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8068735,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10407512,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11783816,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12159105,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14444209,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21170156,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23694460,2020,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3716096,2020,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9393376,2020,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14928073,2020,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20935955,2020,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23734800,2020,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24779995,2020,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25709923,2020,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25765552,2020,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26148647,2020,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25708559,2020,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2962254,2021,Liceo de Huara,Administración,2022,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Administración y Comercio,Ingeniería en Control de Gestión,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+7120485,2021,Liceo de Huara,Administración,2022,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Derecho,Derecho,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+8318725,2021,Liceo de Huara,Administración,2022,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Ciencias Básicas,Analista Químico,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+13124555,2021,Liceo de Huara,Administración,2022,Centros de Formación Técnica,Diurno,Técnico en Enfermería (programa especial),CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+14331620,2021,Liceo de Huara,Administración,2022,Centros de Formación Técnica,Diurno,Analista Programador,CFT Inacap,Carreras Técnicas,Tecnología,Técnico en Computación e Informática,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+15408818,2021,Liceo de Huara,Administración,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Kinesiología,7- Ingreso a través de PACE,Universidad Arturo Prat,Otras áreas,PACE
+15669262,2021,Liceo de Huara,Administración,2022,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Kinesiología,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+22305540,2021,Liceo de Huara,Administración,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Kinesiología,10- Otras formas de Ingreso,Universidad Arturo Prat,Otras áreas,Otras formas de ingreso
+22841662,2021,Liceo de Huara,Administración,2022,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Educación,Pedagogía en Idiomas,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+24682867,2021,Liceo de Huara,Administración,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Fonoaudiología,10- Otras formas de Ingreso,Universidad Arturo Prat,Otras áreas,Otras formas de ingreso
+5662130,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil en Computación e Informática,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+7077089,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+7854022,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Centros de Formación Técnica,Diurno,Contabilidad General,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Contabilidad General,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+10696696,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Universidades,Vespertino,TNS Traductor Bilingüe Inglés-Español,Universidad Arturo Prat,Carreras Técnicas,Humanidades,Técnico en Traducción e Interpretariado,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+12557912,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+13305841,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Universidades,Vespertino,"TNS Administración de Empresas, Marketing y Gestión Comercial",Universidad Arturo Prat,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+14138154,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,10- Otras formas de Ingreso,Santo Tomás,Administración y Comercio,Otras formas de ingreso
+15440321,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Obstetricia y Puericultura,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+18033800,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil en Minas,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+20254207,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Institutos Profesionales,Diurno,NA,IP Santo Tomás,Carreras Profesionales,Tecnología,Ingeniería en Computación e Informática,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+20398347,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Centros de Formación Técnica,Diurno,Administración de Empresas,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,5- Ingreso por Reconocimiento de Aprendizajes Previos (RAP),INACAP,Administración y Comercio,RAP
+22878828,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Derecho,Derecho,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+23192129,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Contador Auditor,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+24441857,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Centros de Formación Técnica,Diurno,Administración de Empresas,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,5- Ingreso por Reconocimiento de Aprendizajes Previos (RAP),INACAP,Administración y Comercio,RAP
+1857823,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Ingeniería en Logística,5- Ingreso por Reconocimiento de Aprendizajes Previos (RAP),INACAP,Administración y Comercio,RAP
+3010631,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil en Computación e Informática,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+3341200,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Ingeniería en Logística,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+3717384,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Centros de Formación Técnica,Diurno,Técnico en Enfermería (programa especial),CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+4368772,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Ingeniería en Logística,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+5620320,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Centros de Formación Técnica,Vespertino,Técnico en Logística,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+6634711,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Institutos Profesionales,A Distancia,NA,NA,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1- Ingreso Directo (regular),NA,Administración y Comercio,Directo
+10800028,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Institutos Profesionales,Diurno,NA,IP Santo Tomás,Carreras Profesionales,Tecnología,Ingeniería en Electricidad,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+14159875,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+18683724,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil en Minas,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+21618845,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2022,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Ingeniería en Logística,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+8754773,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Fonoaudiología,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+9420695,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2022,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+11189664,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2022,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Ciencias Sociales,Psicología,6- Ingreso especial para estudiantes extranjeros,Universidad de Tarapacá,Otras áreas,Especial para estudiantes extranjeros
+11422816,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2022,Centros de Formación Técnica,Diurno,Técnico en Enfermería Gineco-Obstetrica y Neonatal,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+11531995,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Odontología,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+12280658,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Educación,Pedagogía en Educación Física,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+13271304,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Fonoaudiología,10- Otras formas de Ingreso,Universidad Arturo Prat,Salud,Otras formas de ingreso
+15075991,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2022,Centros de Formación Técnica,Diurno,Gastronomía Internacional y Tradicional Chilena,CFT Santo Tomás,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+17081951,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Odontología,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+17469198,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2022,Centros de Formación Técnica,Diurno,Técnico en Enfermería (programa especial),CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+18543439,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Kinesiología,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+22668440,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2022,Institutos Profesionales,Diurno,NA,NA,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),NA,Salud,Directo
+23698222,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2022,Centros de Formación Técnica,Diurno,Técnico en Enfermería Gineco-Obstetrica y Neonatal,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+5691181,2021,Escuela Básica y Parvularia Kronos School,Administración,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Odontología,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+8526222,2021,Escuela Básica y Parvularia Kronos School,Administración,2022,Centros de Formación Técnica,Diurno,Gastronomía Internacional y Tradicional Chilena,CFT Santo Tomás,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+9281372,2021,Escuela Básica y Parvularia Kronos School,Administración,2022,Centros de Formación Técnica,Diurno,Gastronomía Internacional y Tradicional Chilena,CFT Santo Tomás,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+14043564,2021,Escuela Básica y Parvularia Kronos School,Administración,2022,Universidades,Diurno,NA,NA,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+20082974,2021,Escuela Básica y Parvularia Kronos School,Administración,2022,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Tecnología,Ingeniería Civil Industrial,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+22701889,2021,Escuela Básica y Parvularia Kronos School,Administración,2022,Centros de Formación Técnica,Diurno,Gastronomía Internacional y Tradicional Chilena,CFT Santo Tomás,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+22919700,2021,Escuela Básica y Parvularia Kronos School,Administración,2022,Universidades,Diurno,NA,NA,Carreras Profesionales,Tecnología,Ingeniería Civil Ambiental,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+26304868,2021,Escuela Básica y Parvularia Kronos School,Administración,2022,Centros de Formación Técnica,Vespertino,TNS en Logística,CFT Estatal de Tarapacá,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Administración y Comercio,Directo
+26305177,2021,Escuela Básica y Parvularia Kronos School,Administración,2022,Centros de Formación Técnica,Vespertino,TNS Mecánico en Mantenimiento Predictivo,CFT Estatal de Tarapacá,Carreras Técnicas,Tecnología,Técnico en Mecánica Industrial,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Otras áreas,Directo
+3656219,2021,Colegio Nirvana,Atención de Enfermería,2022,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Enfermería,6- Ingreso especial para estudiantes extranjeros,Universidad de Tarapacá,Salud,Especial para estudiantes extranjeros
+6587561,2021,Colegio Nirvana,Atención de Enfermería,2022,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+9968235,2021,Colegio Nirvana,Atención de Enfermería,2022,Institutos Profesionales,Diurno,NA,IP Santo Tomás,Carreras Profesionales,Tecnología,Ingeniería en Computación e Informática,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+10443809,2021,Colegio Nirvana,Atención de Enfermería,2022,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+11120119,2021,Colegio Nirvana,Atención de Enfermería,2022,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+11536066,2021,Colegio Nirvana,Atención de Enfermería,2022,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Educación,Pedagogía en Educación Básica,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+11869250,2021,Colegio Nirvana,Atención de Enfermería,2022,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+11975865,2021,Colegio Nirvana,Atención de Enfermería,2022,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Enfermería,6- Ingreso especial para estudiantes extranjeros,Universidad de Tarapacá,Salud,Especial para estudiantes extranjeros
+12522655,2021,Colegio Nirvana,Atención de Enfermería,2022,Centros de Formación Técnica,Diurno,Técnico en Educación Parvularia 1° y 2° basico,CFT Santo Tomás,Carreras Técnicas,Educación,Técnico Asistente del Educador de Párvulos,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+13309389,2021,Colegio Nirvana,Atención de Enfermería,2022,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+21361041,2021,Colegio Nirvana,Atención de Enfermería,2022,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Universidad de Tarapacá,Salud,Directo
+3670330,2021,Liceo de Huara,Administración,2023,Institutos Profesionales,Diurno,NA,NA,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,1- Ingreso Directo (regular),NA,Administración y Comercio,Directo
+5219775,2021,Liceo de Huara,Administración,2023,Centros de Formación Técnica,Diurno,Técnico en Enfermería (programa especial),CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+11995791,2021,Liceo de Huara,Administración,2023,Institutos Profesionales,Diurno,NA,IP Santo Tomás,Carreras Profesionales,Tecnología,Ingeniería en Electricidad,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+23212747,2021,Liceo de Huara,Administración,2023,Institutos Profesionales,Vespertino,NA,IP Santo Tomás,Carreras Profesionales,Tecnología,Ingeniería en Computación e Informática,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+6004703,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Nutrición y Dietética,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+8636366,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+9320541,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración Gastronómica,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+18558460,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Tecnología,Ingeniería en Minas,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+19453383,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Vespertino,TNS Administración y Gestión de Personal,Universidad Arturo Prat,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Recursos Humanos y Personal,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+19935785,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Centros de Formación Técnica,Vespertino,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Otras áreas,Directo
+1181619,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Centros de Formación Técnica,Diurno,Técnico en Mecánica y Electromovilidad Automotriz,CFT Inacap,Carreras Técnicas,Tecnología,Técnico en Mecánica Automotriz,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+2520549,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Vespertino,TNS Administración y Gestión de Personal,Universidad Arturo Prat,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Recursos Humanos y Personal,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+12025067,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Humanidades,Bachillerato y/o Licenciatura en Humanidades,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+18740272,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Derecho,Derecho,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+21129928,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+10156354,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Arte y Arquitectura,Arquitectura,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+16314185,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Nutrición y Dietética,1- Ingreso Directo (regular),Universidad de Tarapacá,Salud,Directo
+18462568,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+19160150,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,NA,Carreras Profesionales,Salud,Kinesiología,1- Ingreso Directo (regular),NA,Salud,Directo
+19333056,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+24555120,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,"Técnico en Laboratorio Clínico, Banco de Sangre e Imagenología",CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Laboratorio Clínico,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+25638439,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,"Técnico en Laboratorio Clínico, Banco de Sangre e Imagenología",CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Laboratorio Clínico,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+26266654,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Institutos Profesionales,Vespertino,NA,IP Santo Tomás,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+4868218,2021,Escuela Básica y Parvularia Kronos School,Administración,2023,Centros de Formación Técnica,Diurno,Gastronomía Internacional y Tradicional Chilena,CFT Santo Tomás,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+11705373,2021,Escuela Básica y Parvularia Kronos School,Administración,2023,Centros de Formación Técnica,Diurno,Técnico en Educación Parvularia 1° y 2° basico,CFT Santo Tomás,Carreras Técnicas,Educación,Técnico Asistente del Educador de Párvulos,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+15566210,2021,Escuela Básica y Parvularia Kronos School,Administración,2023,Institutos Profesionales,Diurno,NA,IP Santo Tomás,Carreras Profesionales,Ciencias Sociales,Trabajo Social,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+4240493,2021,Colegio Nirvana,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,Técnico en Educación Especial,CFT Santo Tomás,Carreras Técnicas,Educación,Técnico Asistente del Educador Diferencial,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+11729587,2021,Colegio Nirvana,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,Técnico en Enfermería (programa especial),CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+15115711,2021,Colegio Nirvana,Atención de Enfermería,2023,Universidades,Diurno,NA,NA,Carreras Profesionales,Educación,"Pedagogía en Lenguaje, Comunicación y/o Castellano",10- Otras formas de Ingreso,NA,Otras áreas,Otras formas de ingreso
+20258800,2021,Colegio Nirvana,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,Técnico en Enfermería y Procedimientos de Apoyo a la Rehabilitación,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+22401511,2021,Colegio Nirvana,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,Preparador Físico,CFT Santo Tomás,Carreras Técnicas,Educación,"Técnico en Deporte, Recreación y Preparación Física",1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+4761232,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Ciencias Sociales,Psicología,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+7992948,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Kinesiología,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+21731542,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Centros de Formación Técnica,Diurno,Administración de Empresas,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+7745689,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,Diseño Digital y Web,CFT Inacap,Carreras Técnicas,Arte y Arquitectura,Técnico en Diseño Gráfico,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+8608546,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Centros de Formación Técnica,Vespertino,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+14496953,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,Técnico en Enfermería y Procedimientos de Apoyo a la Rehabilitación,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+19659140,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Centros de Formación Técnica,A Distancia,NA,NA,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),NA,Salud,Directo
+23098038,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Centros de Formación Técnica,Vespertino,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+20118034,2021,Escuela Básica y Parvularia Kronos School,Administración,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Ciencias Sociales,Trabajo Social,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+20392639,2021,Escuela Básica y Parvularia Kronos School,Administración,2024,Centros de Formación Técnica,Diurno,Técnico en Enfermería Gineco-Obstetrica y Neonatal,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+13469389,2021,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Terapia Ocupacional,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+4385006,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Institutos Profesionales,A Distancia,NA,NA,Carreras Técnicas,Tecnología,Técnico en Minería,1,NA,Otras áreas,Directo
+16377015,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Centros de Formación Técnica,Vespertina,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1,CFT Estatal de Tarapacá,Otras áreas,Directo
+18793231,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Institutos Profesionales,A Distancia,NA,NA,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,1,NA,Administración y Comercio,Directo
+7250929,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Tecnología,Ingeniería Civil Eléctrica,10,Universidad de Tarapacá,Otras áreas,Otras formas de ingreso
+26304772,2021,Escuela Básica y Parvularia Kronos School,Administración,2025,Centros de Formación Técnica,Vespertina,TNS Mecánico en Mantenimiento Predictivo,CFT Estatal de Tarapacá,Carreras Técnicas,Tecnología,Técnico en Mecánica Industrial,1,CFT Estatal de Tarapacá,Otras áreas,Directo
+916053,2021,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Enfermería,1,Universidad Arturo Prat,Salud,Directo
+6218309,2021,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11763136,2021,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21063988,2021,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23808247,2021,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25574461,2021,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25963077,2021,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+141949,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1016218,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2819205,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10127759,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11021240,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11564681,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18195767,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18601588,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21680599,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22447395,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24673830,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24711517,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25857870,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26290554,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1813081,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4652365,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5622373,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15055877,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15258890,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20080939,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20647510,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25150144,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1026510,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4173947,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4662965,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7606875,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9889222,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10168951,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12116261,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14107431,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14169156,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18791066,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22252749,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22790914,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23096494,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23169425,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23621629,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24776426,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26163659,2021,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7363874,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17655468,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17891857,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20003180,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20282346,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25505509,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25574810,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25590856,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25709665,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25766026,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25852238,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25853226,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26134417,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26151408,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26305583,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26310684,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26371723,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26460869,2021,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5818028,2021,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6011081,2021,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6345783,2021,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6982283,2021,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7866461,2021,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11902816,2021,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13322087,2021,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16461126,2021,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22989774,2021,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24985222,2021,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25755385,2021,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25590689,2021,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1566161,2022,Liceo de Huara,Administración,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Ciencias Sociales,Trabajo Social,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+1593604,2022,Liceo de Huara,Administración,2023,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Nutrición y Dietética,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+2807457,2022,Liceo de Huara,Administración,2023,Centros de Formación Técnica,Diurno,Técnico en Electricidad Industrial,CFT Inacap,Carreras Técnicas,Tecnología,Técnico en Electricidad y Electricidad Industrial,5- Ingreso por Reconocimiento de Aprendizajes Previos (RAP),INACAP,Otras áreas,RAP
+2813396,2022,Liceo de Huara,Administración,2023,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración Gastronómica,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+7619550,2022,Liceo de Huara,Administración,2023,Centros de Formación Técnica,Diurno,Técnico en Minería,CFT Inacap,Carreras Técnicas,Tecnología,Técnico en Minería,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+8896398,2022,Liceo de Huara,Administración,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Educación,Pedagogía en Educación Física,6- Ingreso especial para estudiantes extranjeros,Universidad de Tarapacá,Otras áreas,Especial para estudiantes extranjeros
+12084955,2022,Liceo de Huara,Administración,2023,Centros de Formación Técnica,Diurno,Técnico en Educación Parvularia 1° y 2° basico,CFT Santo Tomás,Carreras Técnicas,Educación,Técnico Asistente del Educador de Párvulos,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+15992503,2022,Liceo de Huara,Administración,2023,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Tecnología,Ingeniería en Mecánica Automotriz,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+16935896,2022,Liceo de Huara,Administración,2023,Centros de Formación Técnica,Diurno,Analista Programador,CFT Inacap,Carreras Técnicas,Tecnología,Técnico en Computación e Informática,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+17784472,2022,Liceo de Huara,Administración,2023,Universidades,Diurno,NA,NA,Carreras Profesionales,Derecho,Derecho,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+18886081,2022,Liceo de Huara,Administración,2023,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Tecnología,Ingeniería en Computación e Informática,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+21989317,2022,Liceo de Huara,Administración,2023,Centros de Formación Técnica,Diurno,Técnico en Minería,CFT Inacap,Carreras Técnicas,Tecnología,Técnico en Minería,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+25609227,2022,Liceo de Huara,Administración,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Derecho,Derecho,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+409641,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Tecnología,Construcción Civil,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+883947,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Ingeniería en Control de Gestión,7- Ingreso a través de PACE,Universidad Arturo Prat,Administración y Comercio,PACE
+1699128,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Vespertino,TNS Análisis Químico,Universidad Arturo Prat,Carreras Técnicas,Ciencias Básicas,Técnico en Química (Análisis e Industrial),1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+4959510,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Vespertino,TNS Administración y Gestión de Personal,Universidad Arturo Prat,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Recursos Humanos y Personal,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+7547872,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+8611008,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,5- Ingreso por Reconocimiento de Aprendizajes Previos (RAP),INACAP,Administración y Comercio,RAP
+9617807,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1- Ingreso Directo (regular),Universidad de Tarapacá,Administración y Comercio,Directo
+11068867,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1- Ingreso Directo (regular),Universidad de Tarapacá,Administración y Comercio,Directo
+11082310,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Derecho,Derecho,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+11405240,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Institutos Profesionales,Vespertino,NA,IP Santo Tomás,Carreras Profesionales,Administración y Comercio,Ingeniería en Recursos Humanos,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+13071072,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Centros de Formación Técnica,Vespertino,Técnico en Administración,CFT Santo Tomás,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+13207487,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Ciencias Sociales,Psicología,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+15419758,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Tecnología Médica,7- Ingreso a través de PACE,Universidad de Tarapacá,Otras áreas,PACE
+15602424,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración Gastronómica,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+15656455,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Derecho,Derecho,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+17619289,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Institutos Profesionales,Vespertino,NA,IP Santo Tomás,Carreras Profesionales,Administración y Comercio,Ingeniería en Recursos Humanos,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+19713545,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Tecnología,Construcción Civil,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+21568051,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Institutos Profesionales,Diurno,NA,IP Santo Tomás,Carreras Profesionales,Ciencias Sociales,Trabajo Social,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+25976774,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Tecnología,Ingeniería Civil Industrial,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+349209,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1- Ingreso Directo (regular),Universidad de Tarapacá,Administración y Comercio,Directo
+1513643,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+3878264,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración Gastronómica,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+5488956,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+6826361,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Ingeniería en Logística,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+16992405,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Institutos Profesionales,Diurno,NA,NA,Carreras Profesionales,Tecnología,Ingeniería en Minas,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+25734370,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Tecnología,Ingeniería Civil en Computación e Informática,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+25978492,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Ciencias Sociales,Psicología,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+326661,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,Técnico en Enfermería (programa especial),CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+1957549,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Ciencias Sociales,Psicología,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+3899560,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,NA,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),NA,Salud,Directo
+4407882,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+4909971,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Kinesiología,6- Ingreso especial para estudiantes extranjeros,Universidad de Tarapacá,Salud,Especial para estudiantes extranjeros
+5516880,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Kinesiología,6- Ingreso especial para estudiantes extranjeros,Universidad de Tarapacá,Salud,Especial para estudiantes extranjeros
+7266945,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,Gastronomía Internacional y Tradicional Chilena,CFT Santo Tomás,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+8185341,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,NA,Carreras Profesionales,Salud,Enfermería,10- Otras formas de Ingreso,NA,Salud,Otras formas de ingreso
+10524316,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Kinesiología,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+10747946,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Nutrición y Dietética,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+11386576,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Obstetricia y Puericultura,6- Ingreso especial para estudiantes extranjeros,Universidad de Tarapacá,Salud,Especial para estudiantes extranjeros
+11596431,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Enfermería,6- Ingreso especial para estudiantes extranjeros,Universidad de Tarapacá,Salud,Especial para estudiantes extranjeros
+12246863,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+13635446,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Obstetricia y Puericultura,1- Ingreso Directo (regular),Universidad de Tarapacá,Salud,Directo
+18550944,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+19342379,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+19413300,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,Técnico en Enfermería y Procedimientos de Apoyo a la Rehabilitación,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+19832093,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Tecnología,Ingeniería en Mecánica Automotriz,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+21446422,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,NA,Carreras Profesionales,Salud,Obstetricia y Puericultura,1- Ingreso Directo (regular),NA,Salud,Directo
+21593022,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Universidad de Tarapacá,Salud,Directo
+22881268,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil Industrial,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+23866987,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Universidad de Tarapacá,Salud,Directo
+25593987,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Obstetricia y Puericultura,6- Ingreso especial para estudiantes extranjeros,Universidad de Tarapacá,Salud,Especial para estudiantes extranjeros
+25974592,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,Técnico en Enfermería (programa especial),CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+319862,2022,Escuela Básica y Parvularia Kronos School,Administración,2023,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+5596816,2022,Escuela Básica y Parvularia Kronos School,Administración,2023,Centros de Formación Técnica,Diurno,TNS en Educación Parvularia,CFT Estatal de Tarapacá,Carreras Técnicas,Educación,Técnico Asistente del Educador de Párvulos,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Otras áreas,Directo
+7819126,2022,Escuela Básica y Parvularia Kronos School,Administración,2023,Institutos Profesionales,Diurno,NA,NA,Carreras Profesionales,Arte y Arquitectura,"Música, Canto o Danza",1- Ingreso Directo (regular),NA,Otras áreas,Directo
+7878451,2022,Escuela Básica y Parvularia Kronos School,Administración,2023,Centros de Formación Técnica,Diurno,TNS en Administración de Empresas,CFT Estatal de Tarapacá,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Administración y Comercio,Directo
+11097064,2022,Escuela Básica y Parvularia Kronos School,Administración,2023,Centros de Formación Técnica,Vespertino,Técnico en Diseño Digital,CFT Inacap,Carreras Técnicas,Arte y Arquitectura,Técnico en Diseño Gráfico,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+11917810,2022,Escuela Básica y Parvularia Kronos School,Administración,2023,Institutos Profesionales,Vespertino,NA,IP Santo Tomás,Carreras Profesionales,Administración y Comercio,Ingeniería en Recursos Humanos,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+14675405,2022,Escuela Básica y Parvularia Kronos School,Administración,2023,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Tecnología,Ingeniería Civil Industrial,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+15853367,2022,Escuela Básica y Parvularia Kronos School,Administración,2023,Universidades,Diurno,NA,NA,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1- Ingreso Directo (regular),NA,Administración y Comercio,Directo
+21097003,2022,Escuela Básica y Parvularia Kronos School,Administración,2023,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Ingeniería en Control de Gestión,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+25474201,2022,Escuela Básica y Parvularia Kronos School,Administración,2023,Centros de Formación Técnica,Diurno,Gastronomía,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+25737515,2022,Escuela Básica y Parvularia Kronos School,Administración,2023,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+26361191,2022,Escuela Básica y Parvularia Kronos School,Administración,2023,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Contador Auditor,10- Otras formas de Ingreso,Universidad Arturo Prat,Administración y Comercio,Otras formas de ingreso
+4162649,2022,Colegio Nirvana,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+5573159,2022,Colegio Nirvana,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+8684813,2022,Colegio Nirvana,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,TNS Mecánico en Mantenimiento Predictivo,CFT Estatal de Tarapacá,Carreras Técnicas,Tecnología,Técnico en Mecánica Industrial,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Otras áreas,Directo
+8870848,2022,Colegio Nirvana,Atención de Enfermería,2023,Institutos Profesionales,Vespertino,NA,IP Inacap,Carreras Profesionales,Tecnología,Ingeniería en Minas,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+13159529,2022,Colegio Nirvana,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+14578719,2022,Colegio Nirvana,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,Preparador Físico,CFT Santo Tomás,Carreras Técnicas,Educación,"Técnico en Deporte, Recreación y Preparación Física",1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+15187845,2022,Colegio Nirvana,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Ciencias Básicas,Biología Marina y Ecología Marina,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+17449959,2022,Colegio Nirvana,Atención de Enfermería,2023,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Kinesiología,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+20977844,2022,Colegio Nirvana,Atención de Enfermería,2023,Institutos Profesionales,Vespertino,NA,IP Inacap,Carreras Profesionales,Tecnología,Ingeniería en Minas,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+21970176,2022,Colegio Nirvana,Atención de Enfermería,2023,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Tecnología,Ingeniería en Minas,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+24443484,2022,Colegio Nirvana,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,"Técnico en Laboratorio Clínico, Banco de Sangre e Imagenología",CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Laboratorio Clínico,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+25575263,2022,Colegio Nirvana,Atención de Enfermería,2023,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+25825853,2022,Colegio Nirvana,Atención de Enfermería,2023,Centros de Formación Técnica,Vespertino,TNS en Administración Pública,CFT Estatal de Tarapacá,Carreras Técnicas,Ciencias Sociales,Técnico en Administración Pública o Municipal,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Otras áreas,Directo
+26304977,2022,Colegio Nirvana,Atención de Enfermería,2023,Institutos Profesionales,Vespertino,NA,IP Inacap,Carreras Profesionales,Tecnología,Ingeniería en Minas,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+10787013,2022,Liceo de Huara,Administración,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+13361655,2022,Liceo de Huara,Administración,2024,Universidades,Vespertino,TNS Administración y Gestión de Personal,Universidad Arturo Prat,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Recursos Humanos y Personal,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+25489708,2022,Liceo de Huara,Administración,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Salud,Química y Farmacia,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+934586,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Ciencias Básicas,Biología Marina y Ecología Marina,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+3901425,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Derecho,Derecho,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+6300827,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Institutos Profesionales,A Distancia,NA,NA,Carreras Profesionales,Educación,Psicopedagogía,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+6520755,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Ciencias Sociales,Psicología,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+13661002,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Ciencias Sociales,Psicología,7- Ingreso a través de PACE,Universidad de Tarapacá,Otras áreas,PACE
+14477420,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Centros de Formación Técnica,Vespertino,Técnico en Administración,CFT Santo Tomás,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+16400206,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Kinesiología,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+18426372,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Centros de Formación Técnica,Diurno,NA,NA,Carreras Técnicas,Tecnología,Técnico en Minería,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+19132744,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Centros de Formación Técnica,Diurno,Gastronomía Internacional y Tradicional Chilena,CFT Santo Tomás,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+23507056,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Centros de Formación Técnica,Diurno,Técnico en Enfermería Gineco-Obstetrica y Neonatal,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+10318306,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Ciencias Sociales,Psicología,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+828478,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Administración y Comercio,Ingeniería en Comercio Exterior,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+5349411,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Ciencias Sociales,Psicología,10- Otras formas de Ingreso,NA,Otras áreas,Otras formas de ingreso
+11173782,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+12493276,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Kinesiología,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+13118535,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Fonoaudiología,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+16302308,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,NA,NA,Carreras Técnicas,Agropecuaria,Técnico Veterinario,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+16402187,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+16610866,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),NA,Salud,Directo
+18433183,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,Técnico en Educación Parvularia 1° y 2° basico,CFT Santo Tomás,Carreras Técnicas,Educación,Técnico Asistente del Educador de Párvulos,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+19787263,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Universidad de Tarapacá,Salud,Directo
+23088699,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,Técnico en Enfermería (programa especial),CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+26259643,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Nutrición y Dietética,1- Ingreso Directo (regular),Universidad de Tarapacá,Salud,Directo
+589931,2022,Escuela Básica y Parvularia Kronos School,Administración,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+4291521,2022,Escuela Básica y Parvularia Kronos School,Administración,2024,Centros de Formación Técnica,Vespertino,Técnico Jurídico,CFT Santo Tomás,Carreras Técnicas,Derecho,Técnico Jurídico,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+8756752,2022,Escuela Básica y Parvularia Kronos School,Administración,2024,Centros de Formación Técnica,Vespertino,Técnico en Prevención de Riesgos y Gestión de Emergencia,CFT Inacap,Carreras Técnicas,Tecnología,Técnico en Prevención de Riesgos,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+15292316,2022,Escuela Básica y Parvularia Kronos School,Administración,2024,Institutos Profesionales,A Distancia,NA,IP Santo Tomás,Carreras Profesionales,Tecnología,Ingeniería en Prevención de Riesgos,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+15787526,2022,Escuela Básica y Parvularia Kronos School,Administración,2024,Centros de Formación Técnica,Diurno,Técnico en Enfermería Gineco-Obstetrica y Neonatal,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+16370446,2022,Escuela Básica y Parvularia Kronos School,Administración,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+26373932,2022,Escuela Básica y Parvularia Kronos School,Administración,2024,Universidades,Vespertino,TNS Comercio Exterior,Universidad Arturo Prat,Carreras Técnicas,Administración y Comercio,Técnico en Comercio Exterior,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+27093246,2022,Escuela Básica y Parvularia Kronos School,Administración,2024,Institutos Profesionales,Vespertino,NA,IP Santo Tomás,Carreras Profesionales,Administración y Comercio,Contador Auditor,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+3354601,2022,Colegio Nirvana,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+7310962,2022,Colegio Nirvana,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+9244698,2022,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Ciencias Básicas,Biología Marina y Ecología Marina,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+10986760,2022,Colegio Nirvana,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+15220001,2022,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Agropecuaria,Medicina Veterinaria,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+15369765,2022,Colegio Nirvana,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+15518476,2022,Colegio Nirvana,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,Técnico en Educación Especial,CFT Santo Tomás,Carreras Técnicas,Educación,Técnico Asistente del Educador Diferencial,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+18689476,2022,Colegio Nirvana,Atención de Enfermería,2024,Centros de Formación Técnica,Vespertino,Técnico en Minería,CFT Inacap,Carreras Técnicas,Tecnología,Técnico en Minería,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+21289302,2022,Colegio Nirvana,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,TNS en Logística,CFT Estatal de Tarapacá,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Otras áreas,Directo
+23683256,2022,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Universidad de Tarapacá,Salud,Directo
+24264333,2022,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Ciencias Sociales,Trabajo Social,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+967674,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Fonoaudiología,1,Universidad Arturo Prat,Otras áreas,Directo
+6199547,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Institutos Profesionales,Diurna,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,1,INACAP,Administración y Comercio,Directo
+24686118,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Centros de Formación Técnica,Diurna,Gastronomía Internacional y Tradicional Chilena,CFT Santo Tomás,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1,Santo Tomás,Administración y Comercio,Directo
+3475612,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Institutos Profesionales,A Distancia,NA,NA,Carreras Técnicas,Educación,Técnico Asistente del Educador Diferencial,1,NA,Otras áreas,Directo
+15633890,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Institutos Profesionales,Vespertina,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Ingeniería en Logística,1,INACAP,Administración y Comercio,Directo
+2693494,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Enfermería,1,Universidad Arturo Prat,Salud,Directo
+9775278,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Obstetricia y Puericultura,1,Universidad de Tarapacá,Salud,Directo
+12665747,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Institutos Profesionales,Diurna,NA,IP Inacap,Carreras Profesionales,Tecnología,Ingeniería en Metalurgia,1,INACAP,Otras áreas,Directo
+18780833,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Vespertina,TNS Enfermería,Universidad Arturo Prat,Carreras Técnicas,Salud,Técnico en Enfermería,1,Universidad Arturo Prat,Salud,Directo
+2233958,2022,Colegio Nirvana,Atención de Enfermería,2025,Institutos Profesionales,Diurna,NA,IP Inacap,Carreras Profesionales,Tecnología,Ingeniería en Mecánica Automotriz,1,INACAP,Otras áreas,Directo
+10757756,2022,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Santo Tomás,Carreras Profesionales,Ciencias Sociales,Psicología,1,Santo Tomás,Otras áreas,Directo
+19306612,2022,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Ciencias Sociales,Psicología,1,Universidad Arturo Prat,Otras áreas,Directo
+15860309,2022,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20557492,2022,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23889185,2022,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1886664,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5997535,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6158464,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7372597,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14755338,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15596717,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16923864,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17511255,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20640620,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23184622,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25606326,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26377527,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26540532,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+639290,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5091180,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11295254,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14800163,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18917138,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25637456,2022,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1322148,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12932089,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13328270,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18070110,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21940156,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22581384,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23733276,2022,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2697685,2022,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5006979,2022,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12411855,2022,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13747756,2022,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16368453,2022,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17383785,2022,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25506393,2022,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25761225,2022,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25977638,2022,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26122751,2022,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26361059,2022,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26542511,2022,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1384436,2022,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4479105,2022,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7617438,2022,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9462523,2022,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11616802,2022,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14997980,2022,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16313800,2022,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19967621,2022,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22067815,2022,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25735672,2022,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26128324,2022,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26145719,2022,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+372779,2023,Liceo de Huara,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Enfermería,7- Ingreso a través de PACE,Universidad Arturo Prat,Otras áreas,PACE
+4949996,2023,Liceo de Huara,Administración,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Derecho,Derecho,7- Ingreso a través de PACE,Universidad de Tarapacá,Otras áreas,PACE
+5866571,2023,Liceo de Huara,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Educación,Pedagogía en Educación Física,10- Otras formas de Ingreso,Universidad Arturo Prat,Otras áreas,Otras formas de ingreso
+6137550,2023,Liceo de Huara,Administración,2024,Centros de Formación Técnica,Diurno,Gastronomía Internacional y Tradicional Chilena,CFT Santo Tomás,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+13027156,2023,Liceo de Huara,Administración,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1- Ingreso Directo (regular),NA,Administración y Comercio,Directo
+13076724,2023,Liceo de Huara,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+15761297,2023,Liceo de Huara,Administración,2024,Centros de Formación Técnica,Diurno,Técnico en Educación Parvularia 1° y 2° basico,CFT Santo Tomás,Carreras Técnicas,Educación,Técnico Asistente del Educador de Párvulos,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+16368898,2023,Liceo de Huara,Administración,2024,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,5- Ingreso por Reconocimiento de Aprendizajes Previos (RAP),INACAP,Administración y Comercio,RAP
+21415001,2023,Liceo de Huara,Administración,2024,Centros de Formación Técnica,Diurno,TNS en Logística,CFT Estatal de Tarapacá,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Administración y Comercio,Directo
+21846644,2023,Liceo de Huara,Administración,2024,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Tecnología,Otras Ingenierías,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+23002750,2023,Liceo de Huara,Administración,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Derecho,Derecho,7- Ingreso a través de PACE,NA,Otras áreas,PACE
+23396318,2023,Liceo de Huara,Administración,2024,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,5- Ingreso por Reconocimiento de Aprendizajes Previos (RAP),INACAP,Administración y Comercio,RAP
+4427899,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Obstetricia y Puericultura,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+4567627,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Obstetricia y Puericultura,7- Ingreso a través de PACE,Universidad de Tarapacá,Otras áreas,PACE
+4738968,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Tecnología,Ingeniería Civil en Computación e Informática,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+7501382,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Contador Auditor,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+11273987,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil en Computación e Informática,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+11661811,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1- Ingreso Directo (regular),Universidad de Tarapacá,Administración y Comercio,Directo
+14285607,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Fonoaudiología,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+14862074,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+15077235,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Educación,Pedagogía en Educación Diferencial,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+16735625,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Derecho,Derecho,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+16783113,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Ciencias Sociales,Psicología,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+17653527,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+18478298,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Derecho,Derecho,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+19288643,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Centros de Formación Técnica,Diurno,Administración de Empresas,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+20761902,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Educación,Pedagogía en Educación Diferencial,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+20907087,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil en Computación e Informática,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+21663330,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Institutos Profesionales,Vespertino,NA,IP Santo Tomás,Carreras Profesionales,Administración y Comercio,Contador Auditor,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+21847560,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Fonoaudiología,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+25464328,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Ciencias Sociales,Psicología,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+25737940,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Tecnología,Ingeniería en Metalurgia,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+2806885,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Centros de Formación Técnica,Diurno,TNS en Logística,CFT Estatal de Tarapacá,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Administración y Comercio,Directo
+6264955,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Centros de Formación Técnica,Vespertino,TNS en Logística,CFT Estatal de Tarapacá,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Administración y Comercio,Directo
+7002102,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil en Minas,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+8168537,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Centros de Formación Técnica,Vespertino,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Otras áreas,Directo
+9070196,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Centros de Formación Técnica,Vespertino,TNS Mecánico en Mantenimiento Predictivo,CFT Estatal de Tarapacá,Carreras Técnicas,Tecnología,Técnico en Mecánica Industrial,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Otras áreas,Directo
+9180150,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Institutos Profesionales,Diurno,NA,NA,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1- Ingreso Directo (regular),NA,Administración y Comercio,Directo
+11136424,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Centros de Formación Técnica,Vespertino,TNS en Logística,CFT Estatal de Tarapacá,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Administración y Comercio,Directo
+11212487,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Nutrición y Dietética,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+15551591,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Tecnología,Construcción Civil,7- Ingreso a través de PACE,NA,Otras áreas,PACE
+18608638,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Centros de Formación Técnica,Diurno,TNS en Logística,CFT Estatal de Tarapacá,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Administración y Comercio,Directo
+21175327,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Institutos Profesionales,A Distancia,NA,NA,Carreras Profesionales,Tecnología,Ingeniería en Minas,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+21713430,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Institutos Profesionales,Vespertino,Operación y Gestión de Equipos Móviles Mineros,IP Santo Tomás,Carreras Técnicas,Tecnología,Técnico en Minería,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+22221902,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Centros de Formación Técnica,Diurno,Contabilidad General,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Contabilidad General,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+22336001,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,5- Ingreso por Reconocimiento de Aprendizajes Previos (RAP),INACAP,Administración y Comercio,RAP
+23774463,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Institutos Profesionales,Diurno,NA,IP Santo Tomás,Carreras Profesionales,Tecnología,Ingeniería en Computación e Informática,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+23937041,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Ingeniería en Logística,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+24865487,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Ingeniería en Logística,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+25134034,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Tecnología,Ingeniería Industrial,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+26085734,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Tecnología,Ingeniería en Computación e Informática,7- Ingreso a través de PACE,NA,Otras áreas,PACE
+1799857,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Terapia Ocupacional,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+2661063,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,8- Ingreso a través de programas de inclusión,NA,Otras áreas,Programas de inclusión
+3068714,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Salud,Directo
+5515833,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Derecho,Derecho,1- Ingreso Directo (regular),Universidad de Tarapacá,Otras áreas,Directo
+6140379,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil en Computación e Informática,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+6213914,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+6472118,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Nutrición y Dietética,1- Ingreso Directo (regular),Universidad de Tarapacá,Salud,Directo
+6979368,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,TNS Asistente de la Educación,CFT Estatal de Tarapacá,Carreras Técnicas,Educación,Otros Técnicos de Educación,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Otras áreas,Directo
+7695374,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Tecnología Médica,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+10308343,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+10348327,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Fonoaudiología,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+10643819,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),NA,Salud,Directo
+12050362,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Kinesiología,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+12679345,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+15537268,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),NA,Salud,Directo
+16071242,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),NA,Salud,Directo
+17239512,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+18218930,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Ciencias Sociales,Trabajo Social,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+19999544,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Química y Farmacia,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+22408107,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Universidad de Tarapacá,Salud,Directo
+23648947,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+24308742,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil en Minas,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+25578178,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Agropecuaria,Agronomía,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+27418068,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,10- Otras formas de Ingreso,Universidad de Tarapacá,Otras áreas,Otras formas de ingreso
+1681506,2023,Escuela Básica y Parvularia Kronos School,Administración,2024,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Tecnología,Ingeniería en Electricidad,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+4408446,2023,Escuela Básica y Parvularia Kronos School,Administración,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+7262769,2023,Escuela Básica y Parvularia Kronos School,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil Industrial,10- Otras formas de Ingreso,Universidad Arturo Prat,Otras áreas,Otras formas de ingreso
+7896283,2023,Escuela Básica y Parvularia Kronos School,Administración,2024,Institutos Profesionales,Vespertino,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+13949348,2023,Escuela Básica y Parvularia Kronos School,Administración,2024,Centros de Formación Técnica,Diurno,Preparador Físico,CFT Santo Tomás,Carreras Técnicas,Educación,"Técnico en Deporte, Recreación y Preparación Física",1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+15455266,2023,Escuela Básica y Parvularia Kronos School,Administración,2024,Institutos Profesionales,Diurno,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+16828764,2023,Escuela Básica y Parvularia Kronos School,Administración,2024,Institutos Profesionales,Vespertino,NA,IP Santo Tomás,Carreras Profesionales,Administración y Comercio,Ingeniería en Recursos Humanos,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+17760151,2023,Escuela Básica y Parvularia Kronos School,Administración,2024,Institutos Profesionales,Vespertino,NA,IP Santo Tomás,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,1- Ingreso Directo (regular),Santo Tomás,Administración y Comercio,Directo
+19583983,2023,Escuela Básica y Parvularia Kronos School,Administración,2024,Centros de Formación Técnica,Diurno,Gastronomía,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1- Ingreso Directo (regular),INACAP,Administración y Comercio,Directo
+20951490,2023,Escuela Básica y Parvularia Kronos School,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Kinesiología,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+22011518,2023,Escuela Básica y Parvularia Kronos School,Administración,2024,Centros de Formación Técnica,Diurno,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),CFT Estatal de Tarapacá,Otras áreas,Directo
+23232845,2023,Escuela Básica y Parvularia Kronos School,Administración,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil Industrial,10- Otras formas de Ingreso,Universidad Arturo Prat,Otras áreas,Otras formas de ingreso
+24597012,2023,Escuela Básica y Parvularia Kronos School,Administración,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1- Ingreso Directo (regular),Universidad de Tarapacá,Administración y Comercio,Directo
+25474210,2023,Escuela Básica y Parvularia Kronos School,Administración,2024,Universidades,Vespertino,TNS Comercio Exterior,Universidad Arturo Prat,Carreras Técnicas,Administración y Comercio,Técnico en Comercio Exterior,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+26458605,2023,Escuela Básica y Parvularia Kronos School,Administración,2024,Universidades,Vespertino,TNS Comercio Exterior,Universidad Arturo Prat,Carreras Técnicas,Administración y Comercio,Técnico en Comercio Exterior,1- Ingreso Directo (regular),Universidad Arturo Prat,Administración y Comercio,Directo
+27419352,2023,Escuela Básica y Parvularia Kronos School,Administración,2024,Centros de Formación Técnica,Diurno,Técnico en Minería,CFT Inacap,Carreras Técnicas,Tecnología,Técnico en Minería,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+27425940,2023,Escuela Básica y Parvularia Kronos School,Administración,2024,Centros de Formación Técnica,Diurno,Técnico en Minería,CFT Inacap,Carreras Técnicas,Tecnología,Técnico en Minería,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+955604,2023,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Terapia Ocupacional,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+4631539,2023,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+6808431,2023,Colegio Nirvana,Atención de Enfermería,2024,Centros de Formación Técnica,Vespertino,Gastronomía,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1- Ingreso Directo (regular),INACAP,Otras áreas,Directo
+10868203,2023,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Derecho,Derecho,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+10953190,2023,Colegio Nirvana,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,Técnico en Enfermería (programa especial),CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+11985198,2023,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil Industrial,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+12368831,2023,Colegio Nirvana,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,Técnico en Enfermería (programa especial),CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+13393008,2023,Colegio Nirvana,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,Técnico en Enfermería y Procedimientos de Apoyo a la Rehabilitación,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+13991434,2023,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Agropecuaria,Medicina Veterinaria,1- Ingreso Directo (regular),NA,Otras áreas,Directo
+15091916,2023,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+15251455,2023,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Universidad de Tarapacá,Salud,Directo
+17070396,2023,Colegio Nirvana,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,Técnico en Enfermería (programa especial),CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+17729121,2023,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,NA,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),NA,Salud,Directo
+18228037,2023,Colegio Nirvana,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,Técnico en Enfermería y Procedimientos de Apoyo a la Rehabilitación,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+18698035,2023,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Tecnología Médica,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+19870935,2023,Colegio Nirvana,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,Técnico en Enfermería y Procedimientos de Apoyo a la Rehabilitación,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+20493360,2023,Colegio Nirvana,Atención de Enfermería,2024,Centros de Formación Técnica,Diurno,Técnico en Enfermería (programa especial),CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+20791697,2023,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Terapia Ocupacional,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+21553803,2023,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Santo Tomás,Salud,Directo
+24448106,2023,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Enfermería,1- Ingreso Directo (regular),Universidad Arturo Prat,Salud,Directo
+25562511,2023,Colegio Nirvana,Atención de Enfermería,2024,Institutos Profesionales,Diurno,NA,IP Santo Tomás,Carreras Profesionales,Tecnología,Ingeniería en Computación e Informática,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+26459168,2023,Colegio Nirvana,Atención de Enfermería,2024,Institutos Profesionales,Vespertino,NA,IP Santo Tomás,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+26620794,2023,Colegio Nirvana,Atención de Enfermería,2024,Universidades,Diurno,NA,Universidad Arturo Prat,Carreras Profesionales,Ciencias Sociales,Sociología,1- Ingreso Directo (regular),Universidad Arturo Prat,Otras áreas,Directo
+27140142,2023,Colegio Nirvana,Atención de Enfermería,2024,Institutos Profesionales,Diurno,NA,IP Santo Tomás,Carreras Profesionales,Ciencias Sociales,Trabajo Social,1- Ingreso Directo (regular),Santo Tomás,Otras áreas,Directo
+5000184,2023,Liceo de Huara,Administración,2025,Centros de Formación Técnica,Diurna,Técnico en Enfermería (programa especial),CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1,Santo Tomás,Otras áreas,Directo
+10334568,2023,Liceo de Huara,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Derecho,Derecho,1,Universidad Arturo Prat,Otras áreas,Directo
+12108514,2023,Liceo de Huara,Administración,2025,Centros de Formación Técnica,Vespertina,TNS Electricidad Industrial,CFT Estatal de Tarapacá,Carreras Técnicas,Tecnología,Técnico en Electricidad y Electricidad Industrial,1,CFT Estatal de Tarapacá,Otras áreas,Directo
+21358322,2023,Liceo de Huara,Administración,2025,Centros de Formación Técnica,Diurna,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1,CFT Estatal de Tarapacá,Otras áreas,Directo
+24396339,2023,Liceo de Huara,Administración,2025,Universidades,Diurna,NA,NA,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1,NA,Administración y Comercio,Directo
+27416513,2023,Liceo de Huara,Administración,2025,Centros de Formación Técnica,Vespertina,Técnico en Electricidad Industrial,CFT Inacap,Carreras Técnicas,Tecnología,Técnico en Electricidad y Electricidad Industrial,1,INACAP,Otras áreas,Directo
+247874,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Centros de Formación Técnica,Vespertina,Diseño Digital y Web,CFT Inacap,Carreras Técnicas,Arte y Arquitectura,Técnico en Diseño Gráfico,5,INACAP,Otras áreas,RAP
+1349787,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Institutos Profesionales,Diurna,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,5,INACAP,Administración y Comercio,RAP
+3852781,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Institutos Profesionales,Diurna,NA,IP Inacap,Carreras Profesionales,Arte y Arquitectura,Diseño Gráfico,1,INACAP,Otras áreas,Directo
+9299769,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil Industrial,10,Universidad Arturo Prat,Otras áreas,Otras formas de ingreso
+18627310,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,NA,Carreras Profesionales,Derecho,Derecho,1,NA,Otras áreas,Directo
+20975791,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,NA,Carreras Profesionales,Tecnología,Ingeniería Civil en Minas,1,NA,Otras áreas,Directo
+24227648,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Ciencias Sociales,Administración Pública,1,Universidad Arturo Prat,Otras áreas,Directo
+25734676,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Centros de Formación Técnica,Vespertina,Técnico en Prevención de Riesgos y Gestión de Emergencia,CFT Inacap,Carreras Técnicas,Tecnología,Técnico en Prevención de Riesgos,1,INACAP,Otras áreas,Directo
+27415821,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Tecnología,Ingeniería Civil Industrial,1,Universidad de Tarapacá,Otras áreas,Directo
+14333142,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,10,Universidad de Tarapacá,Administración y Comercio,Otras formas de ingreso
+27423714,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Institutos Profesionales,Diurna,NA,IP Inacap,Carreras Profesionales,Tecnología,Ingeniería en Metalurgia,1,INACAP,Otras áreas,Directo
+4883174,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Santo Tomás,Carreras Profesionales,Ciencias Sociales,Psicología,1,Santo Tomás,Otras áreas,Directo
+5148726,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Vespertina,NA,Universidad Santo Tomás,Carreras Profesionales,Ciencias Sociales,Psicología,1,Santo Tomás,Otras áreas,Directo
+5217984,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Ciencias Básicas,Analista Químico,1,Universidad de Tarapacá,Otras áreas,Directo
+7328611,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Kinesiología,1,Universidad Arturo Prat,Salud,Directo
+7813671,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Centros de Formación Técnica,Vespertina,TNS en Trabajo Social,CFT Estatal de Tarapacá,Carreras Técnicas,Ciencias Sociales,Técnico en Servicio Social,1,CFT Estatal de Tarapacá,Otras áreas,Directo
+8357147,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Institutos Profesionales,Diurna,NA,IP Santo Tomás,Carreras Profesionales,Educación,Psicopedagogía,1,Santo Tomás,Otras áreas,Directo
+9411486,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Odontología,1,Universidad Arturo Prat,Salud,Directo
+19806606,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Institutos Profesionales,Diurna,NA,IP Inacap,Carreras Profesionales,Arte y Arquitectura,Diseño Gráfico,1,INACAP,Otras áreas,Directo
+26264840,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Kinesiología,1,Santo Tomás,Salud,Directo
+2790201,2023,Escuela Básica y Parvularia Kronos School,Administración,2025,Centros de Formación Técnica,Vespertina,Administración de Empresas,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,1,INACAP,Administración y Comercio,Directo
+5478531,2023,Escuela Básica y Parvularia Kronos School,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil Electrónica,1,Universidad Arturo Prat,Otras áreas,Directo
+8563009,2023,Colegio Nirvana,Atención de Enfermería,2025,Centros de Formación Técnica,Diurna,Preparador Físico,CFT Santo Tomás,Carreras Técnicas,Educación,"Técnico en Deporte, Recreación y Preparación Física",1,Santo Tomás,Otras áreas,Directo
+13343554,2023,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Ciencias Sociales,Psicología,10,Universidad Arturo Prat,Otras áreas,Otras formas de ingreso
+16850717,2023,Colegio Nirvana,Atención de Enfermería,2025,Institutos Profesionales,A Distancia,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Ingeniería en Comercio Exterior,1,INACAP,Otras áreas,Directo
+20494456,2023,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1,Santo Tomás,Salud,Directo
+2138840,2023,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3893895,2023,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6838656,2023,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14091442,2023,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22294897,2023,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23947663,2023,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26616731,2023,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+431846,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1043842,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6200632,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15957663,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16050946,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17481800,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17649070,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19927306,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20955308,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23410822,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25461812,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26946226,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+966063,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4889168,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5016795,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5647251,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9146647,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12899839,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13110054,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2095549,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3432575,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7854057,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8490789,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9233509,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9628168,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12110956,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14045353,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14324996,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20675195,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20980675,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23914235,2023,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3530901,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4913611,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22628307,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23356834,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25710194,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26357240,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26547219,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26576657,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26923445,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26925166,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26929552,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26944364,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26954290,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27221355,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6648020,2023,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8271229,2023,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13008862,2023,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14152127,2023,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16677528,2023,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18752991,2023,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21065735,2023,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21113643,2023,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23300697,2023,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24620682,2023,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26540554,2023,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26284923,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26120515,2023,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26058201,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26122339,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27080277,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27152694,2023,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1197660,2024,Liceo de Huara,Administración,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,7,Universidad de Tarapacá,Administración y Comercio,PACE
+2512273,2024,Liceo de Huara,Administración,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Obstetricia y Puericultura,1,Universidad de Tarapacá,Otras áreas,Directo
+3218992,2024,Liceo de Huara,Administración,2025,Universidades,Vespertina,TNS Enfermería,Universidad Arturo Prat,Carreras Técnicas,Salud,Técnico en Enfermería,1,Universidad Arturo Prat,Otras áreas,Directo
+3922291,2024,Liceo de Huara,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Odontología,1,Universidad Arturo Prat,Otras áreas,Directo
+6116119,2024,Liceo de Huara,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Odontología,1,Universidad Arturo Prat,Otras áreas,Directo
+7905942,2024,Liceo de Huara,Administración,2025,Institutos Profesionales,Diurna,NA,IP Santo Tomás,Carreras Profesionales,Tecnología,Ingeniería en Computación e Informática,1,Santo Tomás,Otras áreas,Directo
+8651131,2024,Liceo de Huara,Administración,2025,Universidades,Diurna,NA,NA,Carreras Técnicas,Tecnología,Técnico en Mecánica Industrial,1,NA,Otras áreas,Directo
+9717430,2024,Liceo de Huara,Administración,2025,Centros de Formación Técnica,Diurna,Técnico en Educación Especial,CFT Santo Tomás,Carreras Técnicas,Educación,Técnico Asistente del Educador Diferencial,1,Santo Tomás,Otras áreas,Directo
+12254670,2024,Liceo de Huara,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Educación,Pedagogía en Educación Física,1,Universidad Arturo Prat,Otras áreas,Directo
+12270588,2024,Liceo de Huara,Administración,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Ciencias Sociales,Psicología,1,Universidad de Tarapacá,Otras áreas,Directo
+19090144,2024,Liceo de Huara,Administración,2025,Centros de Formación Técnica,Diurna,Gastronomía,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1,INACAP,Administración y Comercio,Directo
+23676841,2024,Liceo de Huara,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Enfermería,1,Universidad Arturo Prat,Otras áreas,Directo
+23985620,2024,Liceo de Huara,Administración,2025,Centros de Formación Técnica,Diurna,Gastronomía Internacional y Tradicional Chilena,CFT Santo Tomás,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1,Santo Tomás,Administración y Comercio,Directo
+3326330,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Odontología,7,Universidad Arturo Prat,Otras áreas,PACE
+3928969,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,10,Universidad de Tarapacá,Administración y Comercio,Otras formas de ingreso
+4564806,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Centros de Formación Técnica,Vespertina,Técnico en Administración,CFT Santo Tomás,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,1,Santo Tomás,Administración y Comercio,Directo
+6673146,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Centros de Formación Técnica,Diurna,Administración de Empresas,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Administración de Empresas,1,INACAP,Administración y Comercio,Directo
+7192900,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,7,Universidad de Tarapacá,Administración y Comercio,PACE
+9271693,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1,Universidad de Tarapacá,Administración y Comercio,Directo
+14756737,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil en Minas,10,Universidad Arturo Prat,Otras áreas,Otras formas de ingreso
+17802687,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Ingeniería en Control de Gestión,1,Universidad Arturo Prat,Administración y Comercio,Directo
+17974597,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,NA,Carreras Profesionales,Agropecuaria,Medicina Veterinaria,1,NA,Otras áreas,Directo
+18261368,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1,Universidad de Tarapacá,Administración y Comercio,Directo
+20392457,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Centros de Formación Técnica,Diurna,Técnico en Automatización y Robótica,CFT Inacap,Carreras Técnicas,Tecnología,"Técnico en Instrumentación, Automatización y Control Industrial",1,INACAP,Otras áreas,Directo
+20574515,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Enfermería,1,Universidad Arturo Prat,Otras áreas,Directo
+22177925,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Centros de Formación Técnica,Diurna,Técnico en Enfermería y Procedimientos de Apoyo a la Rehabilitación,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1,Santo Tomás,Otras áreas,Directo
+22696551,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1,Universidad de Tarapacá,Administración y Comercio,Directo
+25467121,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1,Universidad de Tarapacá,Administración y Comercio,Directo
+25604853,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1,Universidad Arturo Prat,Administración y Comercio,Directo
+26247111,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Institutos Profesionales,Vespertina,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Administración de Empresas e Ing. Asociadas,5,INACAP,Administración y Comercio,RAP
+26376177,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Ingeniería en Control de Gestión,1,Universidad Arturo Prat,Administración y Comercio,Directo
+26463351,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1,Universidad Arturo Prat,Administración y Comercio,Directo
+687941,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Centros de Formación Técnica,Vespertina,Técnico en Logística,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1,INACAP,Administración y Comercio,Directo
+2035767,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Centros de Formación Técnica,Vespertina,Técnico en Logística,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1,INACAP,Administración y Comercio,Directo
+2651437,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Ingeniería en Control de Gestión,1,Universidad Arturo Prat,Administración y Comercio,Directo
+3685169,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Educación,Pedagogía en Idiomas,1,Universidad Arturo Prat,Otras áreas,Directo
+9015911,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Centros de Formación Técnica,Diurna,Técnico en Logística,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1,INACAP,Administración y Comercio,Directo
+11068525,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil Industrial,1,Universidad Arturo Prat,Otras áreas,Directo
+11930078,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Centros de Formación Técnica,Vespertina,Técnico en Logística,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1,INACAP,Administración y Comercio,Directo
+13280232,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Fonoaudiología,1,Universidad Arturo Prat,Otras áreas,Directo
+13550405,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Institutos Profesionales,Vespertina,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Ingeniería en Logística,5,INACAP,Administración y Comercio,RAP
+14081523,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería en Control de Gestión,10,Universidad de Tarapacá,Administración y Comercio,Otras formas de ingreso
+14691084,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil en Computación e Informática,1,Universidad Arturo Prat,Otras áreas,Directo
+15519760,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Institutos Profesionales,Vespertina,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Ingeniería en Logística,1,INACAP,Administración y Comercio,Directo
+16806110,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Ciencias Sociales,Trabajo Social,10,Universidad Arturo Prat,Otras áreas,Otras formas de ingreso
+18411963,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Derecho,Derecho,1,Universidad de Tarapacá,Otras áreas,Directo
+21388394,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Ingeniería en Control de Gestión,1,Universidad Arturo Prat,Administración y Comercio,Directo
+22275700,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil en Computación e Informática,1,Universidad Arturo Prat,Otras áreas,Directo
+26257655,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Centros de Formación Técnica,Vespertina,Técnico en Logística,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1,INACAP,Administración y Comercio,Directo
+27834260,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1,Universidad de Tarapacá,Administración y Comercio,Directo
+608557,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1,Universidad de Tarapacá,Otras áreas,Directo
+782860,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Odontología,1,Universidad Arturo Prat,Salud,Directo
+1776010,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Fonoaudiología,1,Universidad Arturo Prat,Salud,Directo
+3331496,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1,Santo Tomás,Salud,Directo
+5035990,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Química y Farmacia,1,Universidad Arturo Prat,Salud,Directo
+5675318,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,NA,Carreras Profesionales,Salud,Química y Farmacia,1,NA,Salud,Directo
+6719424,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Institutos Profesionales,Diurna,NA,IP Inacap,Carreras Profesionales,Administración y Comercio,Ingeniería en Logística,1,INACAP,Otras áreas,Directo
+9294115,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Centros de Formación Técnica,Diurna,Preparador Físico,CFT Santo Tomás,Carreras Técnicas,Educación,"Técnico en Deporte, Recreación y Preparación Física",1,Santo Tomás,Otras áreas,Directo
+11158039,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Centros de Formación Técnica,Diurna,Técnico en Enfermería Gineco-Obstetrica y Neonatal,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1,Santo Tomás,Salud,Directo
+11423631,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Ciencias Sociales,Psicología,1,Universidad de Tarapacá,Otras áreas,Directo
+12001502,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Kinesiología,10,Universidad de Tarapacá,Salud,Otras formas de ingreso
+12406347,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Tecnología Médica,1,Santo Tomás,Salud,Directo
+13050316,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1,Santo Tomás,Salud,Directo
+13206678,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Kinesiología,1,Santo Tomás,Salud,Directo
+16134445,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1,Santo Tomás,Salud,Directo
+16552504,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Enfermería,1,Santo Tomás,Salud,Directo
+19404774,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Educación,Pedagogía en Educación Diferencial,1,Universidad Arturo Prat,Otras áreas,Directo
+19937042,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Institutos Profesionales,Vespertina,NA,IP Santo Tomás,Carreras Profesionales,Ciencias Sociales,Trabajo Social,1,Santo Tomás,Otras áreas,Directo
+20396180,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Centros de Formación Técnica,Diurna,Técnico en Enfermería Gineco-Obstetrica y Neonatal,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1,Santo Tomás,Salud,Directo
+20993163,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,NA,Carreras Profesionales,Salud,Obstetricia y Puericultura,10,NA,Salud,Otras formas de ingreso
+21785453,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Ciencias Sociales,Psicología,1,Universidad de Tarapacá,Otras áreas,Directo
+23548755,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Centros de Formación Técnica,Vespertina,TNS en Logística,CFT Estatal de Tarapacá,Carreras Técnicas,Administración y Comercio,Técnico en Logística,1,CFT Estatal de Tarapacá,Otras áreas,Directo
+23932381,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Centros de Formación Técnica,Diurna,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1,CFT Estatal de Tarapacá,Salud,Directo
+27424472,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Terapia Ocupacional,1,Santo Tomás,Salud,Directo
+3769996,2024,Escuela Básica y Parvularia Kronos School,Administración,2025,Centros de Formación Técnica,Diurna,Técnico en Prevención de Riesgos y Gestión de Emergencia,CFT Inacap,Carreras Técnicas,Tecnología,Técnico en Prevención de Riesgos,1,INACAP,Otras áreas,Directo
+4398750,2024,Escuela Básica y Parvularia Kronos School,Administración,2025,Institutos Profesionales,Diurna,NA,IP Inacap,Carreras Profesionales,Tecnología,Ingeniería en Mecánica Automotriz,1,INACAP,Otras áreas,Directo
+11715789,2024,Escuela Básica y Parvularia Kronos School,Administración,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,1,Universidad Arturo Prat,Administración y Comercio,Directo
+17929543,2024,Escuela Básica y Parvularia Kronos School,Administración,2025,Centros de Formación Técnica,Diurna,Gastronomía,CFT Inacap,Carreras Técnicas,Administración y Comercio,Técnico en Gastronomía y Cocina,1,INACAP,Administración y Comercio,Directo
+21618730,2024,Escuela Básica y Parvularia Kronos School,Administración,2025,Institutos Profesionales,Diurna,NA,IP Santo Tomás,Carreras Profesionales,Ciencias Sociales,Trabajo Social,1,Santo Tomás,Otras áreas,Directo
+24173554,2024,Escuela Básica y Parvularia Kronos School,Administración,2025,Institutos Profesionales,Diurna,NA,IP Inacap,Carreras Profesionales,Tecnología,Ingeniería en Metalurgia,1,INACAP,Otras áreas,Directo
+25129395,2024,Escuela Básica y Parvularia Kronos School,Administración,2025,Institutos Profesionales,Vespertina,NA,IP Inacap,Carreras Profesionales,Tecnología,Ingeniería en Mecánica Automotriz,1,INACAP,Otras áreas,Directo
+25474885,2024,Escuela Básica y Parvularia Kronos School,Administración,2025,Universidades,Diurna,NA,Universidad Santo Tomás,Carreras Profesionales,Ciencias Sociales,Psicología,1,Santo Tomás,Otras áreas,Directo
+27743120,2024,Escuela Básica y Parvularia Kronos School,Administración,2025,Universidades,Diurna,NA,NA,Carreras Profesionales,Derecho,Derecho,1,NA,Otras áreas,Directo
+27846246,2024,Escuela Básica y Parvularia Kronos School,Administración,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Administración y Comercio,Ingeniería Comercial,10,Universidad de Tarapacá,Administración y Comercio,Otras formas de ingreso
+1848261,2024,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Arte y Arquitectura,Arquitectura,1,Universidad Arturo Prat,Otras áreas,Directo
+2153366,2024,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Santo Tomás,Carreras Profesionales,Derecho,Derecho,1,Santo Tomás,Otras áreas,Directo
+4901549,2024,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Enfermería,1,Universidad Arturo Prat,Salud,Directo
+5486804,2024,Colegio Nirvana,Atención de Enfermería,2025,Centros de Formación Técnica,Diurna,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1,CFT Estatal de Tarapacá,Salud,Directo
+5943030,2024,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Vespertina,TNS Enfermería,Universidad Arturo Prat,Carreras Técnicas,Salud,Técnico en Enfermería,1,Universidad Arturo Prat,Salud,Directo
+6266559,2024,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Santo Tomás,Carreras Profesionales,Salud,Terapia Ocupacional,1,Santo Tomás,Salud,Directo
+10569656,2024,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Vespertina,TNS Enfermería,Universidad Arturo Prat,Carreras Técnicas,Salud,Técnico en Enfermería,1,Universidad Arturo Prat,Salud,Directo
+11154720,2024,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Odontología,1,Universidad Arturo Prat,Salud,Directo
+13134978,2024,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Tecnología,Ingeniería Civil en Minas,1,Universidad Arturo Prat,Otras áreas,Directo
+15971695,2024,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Derecho,Derecho,1,Universidad Arturo Prat,Otras áreas,Directo
+16842685,2024,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Diurna,NA,NA,Carreras Profesionales,Derecho,Derecho,1,NA,Otras áreas,Directo
+17247985,2024,Colegio Nirvana,Atención de Enfermería,2025,Centros de Formación Técnica,Diurna,Técnico en Enfermería Gineco-Obstetrica y Neonatal,CFT Santo Tomás,Carreras Técnicas,Salud,Técnico en Enfermería,1,Santo Tomás,Salud,Directo
+20819781,2024,Colegio Nirvana,Atención de Enfermería,2025,Centros de Formación Técnica,Diurna,TNS en Enfermería,CFT Estatal de Tarapacá,Carreras Técnicas,Salud,Técnico en Enfermería,1,CFT Estatal de Tarapacá,Salud,Directo
+21960053,2024,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Kinesiología,1,Universidad Arturo Prat,Salud,Directo
+23433680,2024,Colegio Nirvana,Atención de Enfermería,2025,Centros de Formación Técnica,Diurna,TNS en Trabajo Social,CFT Estatal de Tarapacá,Carreras Técnicas,Ciencias Sociales,Técnico en Servicio Social,1,CFT Estatal de Tarapacá,Otras áreas,Directo
+25381668,2024,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad de Tarapacá,Carreras Profesionales,Salud,Kinesiología,10,Universidad de Tarapacá,Salud,Otras formas de ingreso
+25715621,2024,Colegio Nirvana,Atención de Enfermería,2025,Universidades,Diurna,NA,Universidad Arturo Prat,Carreras Profesionales,Salud,Enfermería,1,Universidad Arturo Prat,Salud,Directo
+4932390,2024,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8339029,2024,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12490713,2024,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12936824,2024,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20457234,2024,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27836507,2024,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27843761,2024,Liceo de Huara,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2559246,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3660907,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3715537,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4592681,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5962840,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6468081,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8247292,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10725649,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11645736,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12395014,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14748614,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15366835,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16990913,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20781029,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21801483,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22636798,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24282857,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24701730,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25457366,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26462782,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+229039,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3704319,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5024107,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9650478,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11948323,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12002057,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13554090,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14306938,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15104309,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16507583,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17511879,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18434479,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21395948,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21744187,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25139726,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27716793,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+230075,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+605075,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1836060,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2261104,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4115801,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5215168,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11231373,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13618323,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18726694,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19070089,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19202767,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19836293,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21700558,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23638374,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23987279,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24034841,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25134134,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26135069,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26241356,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27423704,2024,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+986551,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6931566,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10162084,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10289726,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13350602,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19858543,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21812643,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22638676,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24562844,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26245992,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26943336,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27143569,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27151493,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27414268,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27689207,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27835975,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27839423,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+977329,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2201754,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5515073,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6369261,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6858518,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7874654,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8737521,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10466040,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12734692,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13133314,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13589552,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14030655,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14595758,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19355481,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19513259,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19538604,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21208828,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23620992,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26534259,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27133813,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27410680,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27411240,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27839620,2024,Colegio Nirvana,Atención de Enfermería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25150073,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27122937,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27414556,2024,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26135353,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26151354,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26619803,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26944715,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27152720,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27226577,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27230753,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27237019,2024,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

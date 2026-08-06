@@ -1,0 +1,1095 @@
+AGNO,MRUN,sexo,RBD,nombre_rbd,glosa_simple,RBD_EGRESO,nombre_rbd_egreso,egresado,glosa_egreso,titulado,AGNO_TITULACION,glosa_titulacion
+2019,1166231,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2020,Administración
+2019,4626237,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2020,Administración
+2019,6733498,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2020,Administración
+2019,11928245,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2020,Administración
+2019,13962828,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2019,14304087,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2020,Administración
+2019,17108975,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2020,Administración
+2019,17614388,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2019,18599648,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2020,Administración
+2019,18670259,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2019,20892412,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2020,Administración
+2019,22059303,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2019,22088001,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2019,23086577,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2020,Administración
+2019,747811,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2019,1099529,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2019,2215044,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,2580479,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2019,4106246,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,5041836,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2019,5049100,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,5156823,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2019,5526829,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2019,7655124,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2019,10236916,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2019,11032997,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2019,11305462,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2019,11591737,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2019,12638337,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2019,12702143,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,14137300,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,14483120,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,18251788,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,19059311,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,19168208,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2019,19277896,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2019,19603367,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2019,20454445,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,20477042,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,21573588,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,21855878,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2019,22594163,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2019,22615584,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,23940751,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,23973361,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,25137427,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2019,25149386,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2019,1589687,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,4082568,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2019,5145227,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2019,5427099,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2019,5570052,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2019,6165297,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2019,6646521,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,7486349,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,9286129,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2019,9932858,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,10252731,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,10653970,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2019,11330285,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2019,12326362,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2019,13706867,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,14144489,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2019,14881951,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2019,16125480,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2019,21295935,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,Sin información,Sin información,No,NA,No titulado
+2019,23893423,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,24211422,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2020,Administración
+2019,25476017,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2019,25975286,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2019,443700,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,493392,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,587690,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,3387471,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,3726297,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,4873285,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,4921641,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2019,4930778,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2019,5642568,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,6876545,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,6995598,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,7142279,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,8704907,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,9275429,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2019,9401798,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,9735209,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,10730347,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,12114269,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,12268782,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,No,No egresado,No,NA,No titulado
+2019,13182619,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,13227152,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,13644852,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,13815634,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,15047607,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,15229060,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,15744877,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,16609338,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,17298652,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,17355142,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,17584593,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,18202055,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,18564145,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,18975616,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2019,19752734,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,19951786,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,20407307,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,20686864,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,21421804,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,21984036,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,23249202,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,23508187,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2019,24184333,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,24789888,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,24980704,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2020,Atención de Enfermería
+2019,85411,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2020,Administración
+2019,465043,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2020,Administración
+2019,651703,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2020,Administración
+2019,1093869,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2020,Administración
+2019,2051407,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2020,Administración
+2019,3695092,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2020,Administración
+2019,5587677,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2019,7645869,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2020,Administración
+2019,8906681,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2019,9425818,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2020,Administración
+2019,11607532,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2019,11721137,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2020,Administración
+2019,13699620,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2020,Administración
+2019,13931315,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2019,15045041,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2020,Administración
+2019,15674408,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2020,Administración
+2019,18161154,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2019,19049497,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2020,Administración
+2019,19519280,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2021,Administración
+2019,20692724,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2020,Administración
+2019,20788600,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,Sin información,Sin información,No,NA,No titulado
+2019,20789140,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2019,24543709,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2020,Administración
+2019,25148424,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2021,Administración
+2019,25581185,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2019,25620916,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2019,25736399,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2021,Administración
+2019,25737196,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2020,Administración
+2019,25806276,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2019,25960908,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2020,3071551,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2020,9619550,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2020,10097796,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2020,14171203,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2020,14837571,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2020,16963413,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2020,23298752,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2020,25712065,Hombre,161,Liceo de Huara,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2020,523983,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,2519213,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2020,4055907,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2020,4153205,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,4929422,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,5502885,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,5540233,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,5709834,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2020,7549049,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2020,8417888,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,8802417,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,9402394,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,9724780,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,11862196,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2020,12772484,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,13247108,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2020,13312316,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,13384432,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,13429033,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2020,14413671,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,15568203,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,16562104,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,16724563,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2020,18097445,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,19613402,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2020,20592619,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,21279989,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2020,21541534,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,22278613,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,23554037,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2020,25475092,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,25837608,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,26244217,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,1284346,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,5661700,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2020,11320617,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,13680669,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,17067710,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,17785978,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2020,20526275,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,20914488,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,21473138,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2020,21816675,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,22110137,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2020,22164187,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,22608826,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,23424809,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,23603780,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,23895896,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,25133937,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2020,25816760,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2020,25976424,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2020,911642,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,1371835,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2020,1918418,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2020,2082506,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,2516156,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,2566859,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,3032417,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,3129092,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,3461362,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,4058061,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,4427799,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,4675053,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,5653724,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,5802268,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,5964820,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,6671342,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2020,7250929,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,Sin información,Sin información,No,NA,No titulado
+2020,8068735,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,10106705,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,10326475,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,10407512,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,10599089,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,10893027,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2020,11783816,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,12159105,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,12824809,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2020,12932246,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2020,13199893,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,13557284,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,13914466,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,14444209,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,15091001,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2020,15345760,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2020,18508363,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,19140744,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,20114695,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,21170156,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,21207576,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,22611783,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2020,23054627,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,23694460,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2020,23720324,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,24692551,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,24891971,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2020,25134360,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2021,Atención de Enfermería
+2020,3716096,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2020,5600094,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2020,5856756,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2021,Administración
+2020,9393376,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2021,Administración
+2020,14691892,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2021,Administración
+2020,14928073,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2021,Administración
+2020,17524520,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2021,Administración
+2020,19364746,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2020,19498378,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2021,Administración
+2020,20935955,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2020,23734800,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,Sin información,Sin información,No,NA,No titulado
+2020,24779995,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2021,Administración
+2020,25709923,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2021,Administración
+2020,25736667,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2020,25765552,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2020,26148647,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2020,25708559,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2021,2962254,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2022,Administración
+2021,3670330,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2022,Administración
+2021,5219775,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2021,6218309,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2021,7120485,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2022,Administración
+2021,8318725,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2021,11763136,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2021,11995791,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2021,13124555,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2024,Administración
+2021,14331620,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2021,15408818,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2021,15669262,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2022,Administración
+2021,21063988,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2022,Administración
+2021,22305540,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2022,Administración
+2021,22841662,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2022,Administración
+2021,23212747,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2021,23808247,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2021,24682867,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2022,Administración
+2021,25574461,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2021,25963077,Hombre,161,Liceo de Huara,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2021,141949,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,1016218,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,2819205,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,4385006,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,4761232,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,5662130,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2021,6004703,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,7077089,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,7854022,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,7992948,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,8636366,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,9320541,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,10127759,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2021,10696696,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2021,11021240,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2021,11564681,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,12557912,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,13305841,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,14138154,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,15440321,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,16377015,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2021,18033800,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,18195767,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,18558460,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,18601588,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,18793231,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,19453383,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,19935785,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,20254207,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,20398347,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2021,21680599,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,22447395,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2021,22878828,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,23192129,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2021,24441857,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,24673830,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,24711517,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,25857870,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,26290554,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,1181619,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,1813081,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Sin información,No,NA,No titulado
+2021,1857823,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,2520549,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,3010631,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,3341200,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,3717384,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,4368772,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2021,4652365,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,5620320,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,5622373,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,6634711,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,10800028,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,12025067,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,14159875,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,15055877,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2021,15258890,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2021,Administración
+2021,18683724,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2021,18740272,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,20080939,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2021,20647510,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2021,21129928,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2021,21618845,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2022,Administración
+2021,21731542,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2021,25150144,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2021,1026510,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2021,4173947,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,4662965,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,7250929,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,7606875,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,7745689,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,8608546,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,8754773,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,9420695,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2021,9889222,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,10156354,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,10168951,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,11189664,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2021,11422816,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,11531995,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2021,12116261,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,12280658,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,13271304,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,13328270,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,Sin información,Sin información,No,NA,No titulado
+2021,14107431,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,14169156,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,14496953,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,15075991,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,16314185,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,17081951,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,17469198,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,18462568,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,18543439,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,18791066,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,19160150,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,19333056,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,19413300,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,Sin información,Sin información,No,NA,No titulado
+2021,19659140,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,22252749,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,22668440,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2021,22790914,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,23096494,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2021,23098038,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,23169425,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,23621629,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,23698222,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,24555120,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,24776426,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,25638439,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,26163659,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,26266654,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,4868218,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,5691181,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,7363874,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,8526222,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,9281372,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,11705373,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,14043564,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2021,15566210,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,17655468,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2021,17891857,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2021,20003180,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,20082974,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,20118034,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,20282346,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,20392639,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,22701889,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,22919700,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,25505509,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,25574810,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2021,25590856,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2021,25709665,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2021,25766026,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2021,25852238,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,Sin información,Sin información,No,NA,No titulado
+2021,25853226,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2021,26134417,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,26151408,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2021,26304772,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,26304868,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,26305177,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,26305583,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2021,26310684,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2021,26371723,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2022,Administración
+2021,26460869,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2021,916053,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,3656219,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,4240493,Mujer,40422,Colegio Nirvana,Atención de Enfermería,NA,NA,Sin información,Sin información,No,NA,No titulado
+2021,5818028,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,6011081,Mujer,40422,Colegio Nirvana,Atención de Enfermería,NA,NA,Sin información,Sin información,No,NA,No titulado
+2021,6345783,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2021,6587561,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,6982283,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2021,7866461,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,9968235,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,10443809,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,11120119,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,11536066,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,11729587,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,11869250,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,11902816,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2021,11975865,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,12522655,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2021,13309389,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,13322087,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,13469389,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,15115711,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2021,16461126,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,20258800,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,21361041,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2021,22401511,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,22989774,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2021,24985222,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2021,25755385,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2022,Atención de Enfermería
+2021,25590689,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2022,1566161,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2022,1593604,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2022,2807457,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2022,2813396,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2022,7619550,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2022,8896398,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2022,10787013,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2022,12084955,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2022,13361655,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2022,15860309,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2022,15992503,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2022,16935896,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2022,17784472,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2022,18886081,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2022,20557492,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2022,21989317,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2022,23889185,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2022,25489708,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2023,Administración
+2022,25609227,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2022,409641,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,883947,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,934586,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2022,967674,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,1699128,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,1886664,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2022,3901425,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,4959510,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,5997535,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,6158464,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,6199547,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,6300827,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,6520755,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,7372597,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2022,7547872,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,8611008,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,9617807,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,11068867,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,11082310,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,11405240,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2022,13071072,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,13207487,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,13661002,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,14477420,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,14755338,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2022,15419758,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,15596717,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2022,15602424,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,15656455,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,16400206,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,16923864,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,17511255,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,17619289,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,18426372,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,19132744,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,19713545,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,20640620,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,21568051,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,23184622,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,23507056,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,24686118,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,25606326,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,25976774,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,26377527,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,26540532,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2022,349209,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,639290,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2022,1513643,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,3475612,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,3878264,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,5091180,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,5488956,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,6826361,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,10318306,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,11295254,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,12899839,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,Sin información,Sin información,No,NA,No titulado
+2022,14800163,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,15633890,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,16992405,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,18917138,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2022,25637456,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,25734370,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2022,25978492,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2023,Administración
+2022,326661,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,828478,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,1322148,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,1957549,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,2693494,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,3899560,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,4407882,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,4909971,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2022,5349411,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,5516880,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,7266945,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,8185341,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,9775278,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,10524316,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,10747946,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,11173782,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,11386576,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,11596431,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,12246863,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,12493276,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,12665747,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,12932089,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,13118535,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,13328270,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,NA,NA,Sin información,Sin información,No,NA,No titulado
+2022,13635446,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,16302308,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,16402187,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,16610866,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2022,18070110,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,18433183,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,18550944,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,18780833,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,19342379,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,19413300,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,19787263,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,19832093,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2022,21446422,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,21593022,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,21940156,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,22581384,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,22881268,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,23088699,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,23733276,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,23866987,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,25593987,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,25974592,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,26259643,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,319862,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,589931,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,2697685,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,4291521,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2022,5006979,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,5596816,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,7819126,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,7878451,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,8756752,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,11097064,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,11917810,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,12411855,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,13747756,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2022,14675405,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,15292316,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,15787526,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,15853367,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,16368453,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,16370446,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,17383785,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,21097003,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,25474201,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2022,25506393,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2022,25737515,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,25761225,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,25977638,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,26122751,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2022,26361059,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2022,26361191,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,26373932,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,26542511,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2022,27093246,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2023,Administración
+2022,1384436,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,2233958,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,3354601,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,4162649,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,4479105,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,5573159,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,7310962,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,7617438,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,8684813,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,8870848,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,9244698,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,9462523,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,10757756,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,10986760,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,11616802,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2022,13159529,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,14578719,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,14997980,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,15187845,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,15220001,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,15369765,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,15518476,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,16313800,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,17449959,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,18689476,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,19306612,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,19967621,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,20977844,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,21289302,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2022,21970176,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2022,22067815,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,23683256,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,24264333,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,24443484,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,25575263,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,25735672,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,25825853,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,26128324,Hombre,40422,Colegio Nirvana,Atención de Enfermería,NA,NA,No,No egresado,No,NA,No titulado
+2022,26145719,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2023,Atención de Enfermería
+2022,26304977,Mujer,40422,Colegio Nirvana,Atención de Enfermería,NA,NA,No,No egresado,No,NA,No titulado
+2023,372779,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2024,Administración
+2023,2138840,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2024,Administración
+2023,3893895,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2024,Administración
+2023,4949996,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2024,Administración
+2023,5000184,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2023,5866571,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2023,6137550,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2023,6838656,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2023,10334568,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2024,Administración
+2023,12108514,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2024,Administración
+2023,13027156,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2024,Administración
+2023,13076724,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2024,Administración
+2023,14091442,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2024,Administración
+2023,15761297,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2023,16368898,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2023,21358322,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2023,21415001,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2024,Administración
+2023,21846644,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2023,22294897,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2023,23002750,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2024,Administración
+2023,23396318,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2024,Administración
+2023,23947663,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2023,24396339,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2024,Administración
+2023,26616731,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2024,Administración
+2023,27416513,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,Sí,2024,Administración
+2023,247874,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,431846,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,1043842,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,1349787,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,3852781,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,4427899,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,4567627,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,4738968,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,6200632,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,7501382,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,9299769,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,11273987,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,11661811,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,14285607,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,14862074,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,15077235,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,15957663,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,16050946,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,16735625,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2023,16783113,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,17481800,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,17649070,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,17653527,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,18478298,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,18627310,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,19288643,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,19927306,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,20761902,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,20907087,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,20955308,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,20975791,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,21663330,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,21847560,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,23410822,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,24227648,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,25461812,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,25464328,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,25734676,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,25737940,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,26946226,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,27415821,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,966063,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,2806885,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,4889168,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,5016795,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,5647251,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2023,6264955,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,7002102,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,8168537,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2023,9070196,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,9146647,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,9180150,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,11136424,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,11212487,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,12899839,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,Sin información,Sin información,No,NA,No titulado
+2023,13110054,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,14333142,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2023,15551591,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,18608638,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,21175327,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,21713430,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,22221902,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,22336001,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,23774463,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,23937041,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,24865487,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,25134034,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,26085734,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2023,27423714,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2024,Administración
+2023,1799857,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,2095549,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,2661063,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,3068714,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,3432575,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,4883174,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,5148726,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,5217984,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,5515833,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,6140379,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,6213914,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,6472118,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,6979368,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,7328611,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,7695374,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,7813671,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2023,7854057,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,8357147,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,8490789,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,9233509,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,9411486,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,9628168,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,10308343,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,10348327,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,10643819,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,12050362,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,12110956,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,12679345,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,14045353,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,14324996,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,15537268,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,16071242,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,17239512,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,18218930,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,19806606,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,19999544,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,20675195,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,20980675,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,22408107,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,23648947,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,23914235,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,24308742,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,25578178,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,26264840,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,27418068,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,1681506,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,2790201,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,3530901,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2023,4408446,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,4913611,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2023,5478531,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,7262769,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,7896283,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,13949348,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,15455266,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,16828764,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,17760151,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,19583983,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2023,20951490,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,22011518,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,22628307,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2023,23232845,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,23356834,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2023,24597012,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,25474210,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,25710194,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,26357240,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2023,26458605,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,26547219,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,26576657,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,26923445,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2023,26925166,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,26929552,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2023,26944364,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,26954290,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2023,27221355,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,27419352,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2024,Administración
+2023,27425940,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2023,955604,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,2201754,Hombre,40422,Colegio Nirvana,Atención de Enfermería,NA,NA,Sin información,Sin información,No,NA,No titulado
+2023,4631539,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,6648020,Mujer,40422,Colegio Nirvana,Atención de Enfermería,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2023,6808431,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,8271229,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,8563009,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,10868203,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,10953190,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,11985198,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,12368831,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,13008862,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,13343554,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,13393008,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,13991434,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,14030655,Mujer,40422,Colegio Nirvana,Atención de Enfermería,NA,NA,Sin información,Sin información,No,NA,No titulado
+2023,14152127,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2023,15091916,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,15251455,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,16677528,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,16850717,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,17070396,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,17729121,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,18228037,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,18698035,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,18752991,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,19870935,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,20493360,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2023,20494456,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,20791697,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,21065735,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,21113643,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2023,21553803,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,23300697,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2023,24448106,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,24620682,Mujer,40422,Colegio Nirvana,Atención de Enfermería,NA,NA,Sin información,Sin información,No,NA,No titulado
+2023,25562511,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,26459168,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,26540554,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,26620794,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,27140142,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2024,Atención de Enfermería
+2023,26284923,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2023,26120515,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2023,26058201,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2023,26122339,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2023,27080277,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2023,27152694,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,No,No egresado,No,NA,No titulado
+2024,1197660,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,2512273,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,3218992,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,3922291,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,4932390,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,6116119,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,7905942,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,8339029,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,8651131,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,9717430,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,12254670,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,12270588,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,12490713,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,12936824,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,19090144,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,20457234,Mujer,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,23676841,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,23985620,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,27836507,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,27843761,Hombre,161,Liceo de Huara,Administración,161,Liceo de Huara,Sí,Administración,No,NA,No titulado
+2024,2559246,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,3326330,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,3660907,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,3715537,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,3928969,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,4564806,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,4592681,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,5962840,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,6468081,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,6673146,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,7192900,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,8247292,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,9271693,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,10725649,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,11645736,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,12395014,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,14748614,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,14756737,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,15366835,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,16990913,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,17802687,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,17974597,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,18261368,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,20392457,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,20574515,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,20781029,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,21801483,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,22177925,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,22636798,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,22696551,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,24282857,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,24701730,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,25457366,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,25467121,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,25604853,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2024,26247111,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,26376177,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,26462782,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,26463351,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,229039,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,687941,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,2035767,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,2651437,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,3685169,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,3704319,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,5024107,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,9015911,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,9650478,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2024,11068525,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,11930078,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,11948323,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,12002057,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,13280232,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,13550405,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,13554090,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,14081523,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,14306938,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,14691084,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,15104309,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,15519760,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,16507583,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,16806110,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,17511879,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,18411963,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,18434479,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2024,21388394,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,21395948,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,21744187,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,22275700,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,25139726,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,26257655,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,27716793,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,27834260,Mujer,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,Sí,2025,Administración
+2024,230075,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,605075,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,608557,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2024,782860,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,1776010,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,1836060,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,2261104,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,3331496,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2024,4115801,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,5035990,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,5215168,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,5675318,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,6719424,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,9294115,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2024,11158039,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,11231373,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,11423631,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,12001502,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,12406347,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2024,13050316,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,13206678,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2024,13618323,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,16134445,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,16552504,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,18726694,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2024,19070089,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,19202767,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,19404774,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2024,19836293,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,19937042,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,20396180,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2024,20993163,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,21700558,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,No,NA,No titulado
+2024,21785453,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,23548755,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,23638374,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,23932381,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,23987279,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,24034841,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,25134134,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,26135069,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,26241356,Hombre,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,27423704,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,27424472,Mujer,12534,Liceo Colegio Metodista Robert Johnson,Atención de Enfermería,12534,Liceo Colegio Metodista Robert Johnson,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,986551,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,3769996,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2024,4398750,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,6931566,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2024,10162084,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2024,10289726,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2024,11715789,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,13350602,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,17929543,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,19858543,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,21618730,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,21812643,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,22638676,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,24173554,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2024,24562844,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,25129395,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,25474885,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,26245992,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,26943336,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,27143569,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,NA,NA,Sin información,Sin información,No,NA,No titulado
+2024,27151493,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,27414268,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,27689207,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2024,27743120,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,27835975,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2024,27839423,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,27846246,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,Sí,2025,Administración
+2024,977329,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,1848261,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,2153366,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,2201754,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,4901549,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,5486804,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,5515073,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,5943030,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,6266559,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2024,6369261,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,6858518,Mujer,40422,Colegio Nirvana,Atención de Enfermería,NA,NA,Sin información,Sin información,No,NA,No titulado
+2024,7874654,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,8737521,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,10466040,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,10569656,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,11154720,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,12734692,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,13133314,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,13134978,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,13589552,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,14030655,Mujer,40422,Colegio Nirvana,Atención de Enfermería,NA,NA,Sin información,Sin información,No,NA,No titulado
+2024,14595758,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,15971695,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,16842685,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,17247985,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,19355481,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,19513259,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2024,19538604,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,20819781,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,21208828,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,21960053,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,23433680,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,23620992,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,25381668,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,25715621,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,26534259,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,27133813,Mujer,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,27410680,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,Sí,2025,Atención de Enfermería
+2024,27411240,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2024,27839620,Hombre,40422,Colegio Nirvana,Atención de Enfermería,40422,Colegio Nirvana,Sí,Atención de Enfermería,No,NA,No titulado
+2024,25150073,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2024,27122937,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2024,27414556,Hombre,191,Liceo Alcalde Sergio González Gutiérrez,Administración,191,Liceo Alcalde Sergio González Gutiérrez,Sí,Administración,No,NA,No titulado
+2024,26135353,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2024,26151354,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2024,26619803,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2024,26944715,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2024,27152720,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2024,27226577,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2024,27230753,Hombre,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
+2024,27237019,Mujer,12602,Escuela Básica y Parvularia Kronos School,Administración,12602,Escuela Básica y Parvularia Kronos School,Sí,Administración,No,NA,No titulado
