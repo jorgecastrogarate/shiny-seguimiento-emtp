@@ -11,3 +11,5 @@ Thumbs.db
 # Shiny
 rsconnect/
 *.log
+congruencias.xlsx
+R/mod_matriz.R
