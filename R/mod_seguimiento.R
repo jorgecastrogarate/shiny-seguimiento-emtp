@@ -113,32 +113,32 @@ datos_p3 <- reactive({
 
 # --- Value boxes nivel carrera ---
 output$vb_sup <- renderUI({
-  d   <- datos_p3() |> filter(AGNO == 2024)
+  d   <- datos_p3() |> filter(AGNO == 2023)
   n   <- sum(!is.na(d$NIVEL_CARRERA_2))
   pct <- round(n / nrow(d) * 100, 1)
   HTML(paste0(
     "<span style='font-size:26px;'>", pct, "%</span>",
-    "<span style='font-size:16px;'> continuó estudios superiores (cohorte 2024)</span>"
+    "<span style='font-size:16px;'> continuó estudios superiores (cohorte 2023)</span>"
   ))
 })
 
 output$vb_tec <- renderUI({
-  d <- datos_p3() |> filter(!is.na(NIVEL_CARRERA_2) & AGNO == 2024)
+  d <- datos_p3() |> filter(!is.na(NIVEL_CARRERA_2) & AGNO == 2023)
   n   <- sum(d$NIVEL_CARRERA_2 == "Carreras Técnicas")
   pct <- round(n / nrow(d) * 100, 1)
   HTML(paste0(
     "<span style='font-size:26px;'>", pct, "%</span>",
-    "<span style='font-size:16px;'> de quienes continuaron se matriculó en una carrera técnica(cohorte 2024)</span>"
+    "<span style='font-size:16px;'> de quienes continuaron se matriculó en una carrera técnica(cohorte 2023)</span>"
   ))
 })
 
 output$vb_prof <- renderUI({
-  d <- datos_p3() |> filter(!is.na(NIVEL_CARRERA_2) & AGNO == 2024)
+  d <- datos_p3() |> filter(!is.na(NIVEL_CARRERA_2) & AGNO == 2023)
   n   <- sum(d$NIVEL_CARRERA_2 == "Carreras Profesionales")
   pct <- round(n / nrow(d) * 100, 1)
   HTML(paste0(
     "<span style='font-size:26px;'>", pct, "%</span>",
-    "<span style='font-size:16px;'>  de quienes continuaron se matriculó en una carrera profesional (cohorte 2024)</span>"
+    "<span style='font-size:16px;'>  de quienes continuaron se matriculó en una carrera profesional (cohorte 2023)</span>"
   ))
 })
 
