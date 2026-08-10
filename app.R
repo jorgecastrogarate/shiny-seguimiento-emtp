@@ -5,7 +5,7 @@ source("R/mod_liceos.R")
 source("R/mod_seguimiento.R")
 source("R/mod_sabe.R")
 source("R/mod_planes.R")
-
+# source("R/mod_matriz.R") ------------- Módulo omitido para repositorio público
 
 # ------------------------------------------------------------------------------
 # UI
@@ -181,8 +181,9 @@ ui <- page_navbar(
   mod_resumen_ui("resumen"),
   mod_liceos_ui("liceos"),
   mod_seguimiento_ui("seguimiento"),
-  mod_matriz_ui("matriz"),
   mod_planes_ui("planes"),
+#  mod_matriz_ui("matriz"), ------------ Módulo omitido para repositorio público   
+  mod_sabe_ui("sabe"),
   nav_spacer(),
   nav_item(tags$img(src = "logo.png", height = "50px"))
 )
@@ -194,7 +195,7 @@ server <- function(input, output, session) {
   mod_liceos_server("liceos")
   mod_seguimiento_server("seguimiento")
   mod_planes_server("planes")
-  mod_matriz_server("matriz")
+#  mod_matriz_server("matriz") ---------- Módulo omitido para repositorio público
 }
 
 shinyApp(ui, server)
