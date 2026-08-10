@@ -28,8 +28,8 @@ mod_resumen_ui <- function(id) {
                     selected = "Todos"
         )
       ),
-      uiOutput(ns("titulo_filtros")),
       mobile_filter_hint(),  
+      uiOutput(ns("titulo_filtros_a")),
       
       # col_widths con breakpoints: 4 columnas en desktop (lg),
       # 2 columnas en tablet (sm), 1 columna apilada en mobile (xs)
@@ -85,7 +85,7 @@ mod_resumen_ui <- function(id) {
           )
         )
       ),
-      
+      uiOutput(ns("titulo_filtros_b")),       
       # --- Gráficos apilados verticalmente ---
       # full_screen = TRUE permite expandir el gráfico en pantalla completa,
       # muy útil en mobile donde 400px de alto puede quedar apretado
@@ -175,7 +175,22 @@ mod_resumen_server <- function(id) {
       tit_p1_s() |> filter(AGNO_TITULACION == anio_max_tit)
     })
     
-    output$titulo_filtros <- renderUI({
+    output$titulo_filtros_a <- renderUI({
+      
+      especialidad <- input$p1_glosa
+      comuna       <- if (input$p1_comuna == "Todas") "Tarapacá" else input$p1_comuna
+      liceo        <- input$p1_liceo
+      
+      tags$div(
+        class = "px-1 py-2 mb-2",
+        tags$h4(
+          class = "fw-bold text-primary mb-1",
+            paste(especialidad, comuna, sep = " - "),
+          )
+        )
+      })
+    
+    output$titulo_filtros_b <- renderUI({
       
       especialidad <- input$p1_glosa
       comuna       <- if (input$p1_comuna == "Todas") "Tarapacá" else input$p1_comuna
@@ -186,9 +201,7 @@ mod_resumen_server <- function(id) {
         tags$h4(
           class = "fw-bold text-primary mb-1",
           ifelse(
-            input$p1_liceo == "Todos",
-            paste(especialidad, comuna, sep = " - "),
-            paste(especialidad, liceo, sep = " - ")
+            input$p1_liceo == "Todos",comuna,liceo
           )
         )
       )
